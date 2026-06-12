@@ -67,11 +67,14 @@ After starting the mock API, open another terminal in the project root and run:
 python main.py
 ```
 
+If intermediate files already exist in the `state/` folder, the pipeline reuses them on rerun instead of recomputing those stages. To force a completely fresh run, delete the JSON files inside `state/` and run the pipeline again.
+
 ## Output files
 
 ### Final output
 
 - `output/final_ranked_prospects.json`
+- `output/final_ranked_prospects.csv`
 
 ### Intermediate state files
 
@@ -90,6 +93,7 @@ When the pipeline finishes, it prints:
 - enrichment success count
 - enrichment skipped count
 - enrichment failed count
+- failure reason breakdown
 - final scored records count
 
 ## Notes
@@ -97,4 +101,5 @@ When the pipeline finishes, it prints:
 - records with the same cleaned domain are grouped together
 - records without domains are skipped for enrichment
 - retry handling is included for temporary enrichment failures
+- saved state files are reused on reruns to avoid repeating completed stages
 - scoring is based on enrichment signals such as hiring status, employee count, funding recency, and tech signals

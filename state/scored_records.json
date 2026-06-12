@@ -39,8 +39,41 @@
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 80
+  },
+  {
+    "record_ids": [
+      "R1351",
+      "R1353",
+      "R1352"
+    ],
+    "company_name": "QUARTZ LEGAL GLOBAL LTD",
+    "domain": "quartzlegalglobal.com",
+    "industry": "Healthcare",
+    "employee_count_min": 200,
+    "employee_count_max": 240,
+    "country": "United States",
+    "contact_email": "info@quartz.com",
+    "source_captured_at_clean": "2025-10-22",
+    "merged_record_count": 3,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "quartzlegalglobal.com",
+      "employee_count": 4200,
+      "industry": "Construction",
+      "founded_year": 2021,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "stripe",
+        "segment",
+        "react"
+      ],
+      "hiring_now": true,
+      "last_funding_months_ago": 3
+    },
+    "retry_count": 0,
+    "score": 75
   },
   {
     "record_ids": [
@@ -94,8 +127,8 @@
       "domain": "xenonlabspartners.com",
       "employee_count": 140,
       "industry": "Insurance",
-      "founded_year": 1991,
-      "revenue_band": null,
+      "founded_year": null,
+      "revenue_band": "$10M-$50M",
       "tech_signals": [
         "stripe",
         "salesforce",
@@ -105,7 +138,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 70
   },
   {
@@ -127,7 +160,7 @@
       "employee_count": 4200,
       "industry": "Gaming",
       "founded_year": null,
-      "revenue_band": "<$1M",
+      "revenue_band": null,
       "tech_signals": [
         "salesforce",
         "kubernetes"
@@ -191,7 +224,7 @@
     "enrichment": {
       "domain": "kestrelsecurity.com",
       "employee_count": 140,
-      "industry": null,
+      "industry": "Logistics",
       "founded_year": 2023,
       "revenue_band": "$1M-$10M",
       "tech_signals": [
@@ -236,7 +269,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 14
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 65
   },
   {
@@ -256,8 +289,8 @@
     "enrichment": {
       "domain": "mosaicpaymentshold.com",
       "employee_count": 750,
-      "industry": null,
-      "founded_year": null,
+      "industry": "Construction",
+      "founded_year": 2009,
       "revenue_band": "$250M+",
       "tech_signals": [
         "gcp",
@@ -368,35 +401,6 @@
   },
   {
     "record_ids": [
-      "R1351",
-      "R1353",
-      "R1352"
-    ],
-    "company_name": "QUARTZ LEGAL GLOBAL LTD",
-    "domain": "quartzlegalglobal.com",
-    "industry": "Healthcare",
-    "employee_count_min": 200,
-    "employee_count_max": 240,
-    "country": "United States",
-    "contact_email": "info@quartz.com",
-    "source_captured_at_clean": "2025-10-22",
-    "merged_record_count": 3,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "quartzlegalglobal.com",
-      "employee_count": 4200,
-      "industry": null,
-      "founded_year": 2021,
-      "revenue_band": "$1M-$10M",
-      "tech_signals": null,
-      "hiring_now": true,
-      "last_funding_months_ago": 3
-    },
-    "retry_count": 0,
-    "score": 60
-  },
-  {
-    "record_ids": [
       "R1162",
       "R1161"
     ],
@@ -413,8 +417,8 @@
     "enrichment": {
       "domain": "acorneducationinte.com",
       "employee_count": 4200,
-      "industry": "Insurance",
-      "founded_year": 1990,
+      "industry": null,
+      "founded_year": null,
       "revenue_band": "$10M-$50M",
       "tech_signals": [
         "hubspot",
@@ -447,11 +451,42 @@
       "domain": "saffronspicespartn.com",
       "employee_count": 4200,
       "industry": "Insurance",
-      "founded_year": 2022,
+      "founded_year": null,
       "revenue_band": "$10M-$50M",
-      "tech_signals": [],
+      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": 3
+    },
+    "retry_count": 0,
+    "score": 60
+  },
+  {
+    "record_ids": [
+      "R1131"
+    ],
+    "company_name": "Meridian Travel Global Corp",
+    "domain": "meridiantravelglob.com",
+    "industry": "Software",
+    "employee_count_min": 11,
+    "employee_count_max": 50,
+    "country": "Australia",
+    "contact_email": "info@meridian.com",
+    "source_captured_at_clean": "2025-07-25",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "meridiantravelglob.com",
+      "employee_count": 60,
+      "industry": "Finance",
+      "founded_year": 1992,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "kubernetes",
+        "azure"
+      ],
+      "hiring_now": true,
+      "last_funding_months_ago": 7
     },
     "retry_count": 0,
     "score": 60
@@ -571,7 +606,7 @@
       "domain": "junipermobility.com",
       "employee_count": 60,
       "industry": "Logistics",
-      "founded_year": null,
+      "founded_year": 2016,
       "revenue_band": "<$1M",
       "tech_signals": [
         "datadog",
@@ -602,8 +637,8 @@
       "domain": "junipermobilitygro.com",
       "employee_count": 1500,
       "industry": "Healthcare",
-      "founded_year": 2002,
-      "revenue_band": "<$1M",
+      "founded_year": null,
+      "revenue_band": null,
       "tech_signals": [
         "kubernetes",
         "hubspot"
@@ -679,6 +714,37 @@
   },
   {
     "record_ids": [
+      "R1437"
+    ],
+    "company_name": "Xenon Labs Group",
+    "domain": "xenonlabsgroup.com",
+    "industry": null,
+    "employee_count_min": null,
+    "employee_count_max": null,
+    "country": "Canada",
+    "contact_email": "info@xenon.com",
+    "source_captured_at_clean": "2025-12-14",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "xenonlabsgroup.com",
+      "employee_count": 140,
+      "industry": "Healthcare",
+      "founded_year": 2023,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "react",
+        "stripe",
+        "kubernetes"
+      ],
+      "hiring_now": true,
+      "last_funding_months_ago": 7
+    },
+    "retry_count": 0,
+    "score": 60
+  },
+  {
+    "record_ids": [
       "R1319",
       "R1321",
       "R1320",
@@ -697,9 +763,9 @@
     "enrichment": {
       "domain": "onyxmining.com",
       "employee_count": 320,
-      "industry": "Construction",
+      "industry": null,
       "founded_year": 2010,
-      "revenue_band": "$10M-$50M",
+      "revenue_band": null,
       "tech_signals": [],
       "hiring_now": true,
       "last_funding_months_ago": 3
@@ -736,35 +802,6 @@
       "last_funding_months_ago": 7
     },
     "retry_count": 0,
-    "score": 55
-  },
-  {
-    "record_ids": [
-      "R1087"
-    ],
-    "company_name": "Harbor Health International",
-    "domain": "harborhealthintern.com",
-    "industry": "Pharmaceuticals",
-    "employee_count_min": 20,
-    "employee_count_max": 60,
-    "country": "United Kingdom",
-    "contact_email": "info@harbor.com",
-    "source_captured_at_clean": "2025-01-28",
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "harborhealthintern.com",
-      "employee_count": 750,
-      "industry": "Construction",
-      "founded_year": 1989,
-      "revenue_band": "<$1M",
-      "tech_signals": [
-        "salesforce"
-      ],
-      "hiring_now": true,
-      "last_funding_months_ago": 7
-    },
-    "retry_count": 1,
     "score": 55
   },
   {
@@ -856,7 +893,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 7
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 55
   },
   {
@@ -983,7 +1020,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 14
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 55
   },
   {
@@ -1044,7 +1081,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 55
   },
   {
@@ -1075,41 +1112,8 @@
       "hiring_now": true,
       "last_funding_months_ago": null
     },
-    "retry_count": 1,
-    "score": 55
-  },
-  {
-    "record_ids": [
-      "R1229",
-      "R1230"
-    ],
-    "company_name": "Granite Insurance Partners Corp",
-    "domain": "graniteinsurancepa.com",
-    "industry": "Pharmaceuticals",
-    "employee_count_min": 130,
-    "employee_count_max": 130,
-    "country": "Australia",
-    "contact_email": "info@granite.com",
-    "source_captured_at_clean": "2025-09-06",
-    "merged_record_count": 2,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "graniteinsurancepa.com",
-      "employee_count": 1500,
-      "industry": null,
-      "founded_year": 2014,
-      "revenue_band": null,
-      "tech_signals": [
-        "python",
-        "datadog",
-        "gcp",
-        "segment"
-      ],
-      "hiring_now": false,
-      "last_funding_months_ago": 14
-    },
     "retry_count": 0,
-    "score": 50
+    "score": 55
   },
   {
     "record_ids": [
@@ -1130,7 +1134,7 @@
     "enrichment": {
       "domain": "cobalttelecomgroup.com",
       "employee_count": 1500,
-      "industry": null,
+      "industry": "Media",
       "founded_year": 1995,
       "revenue_band": "<$1M",
       "tech_signals": [
@@ -1163,8 +1167,8 @@
     "enrichment": {
       "domain": "acorneducation.com",
       "employee_count": 4200,
-      "industry": null,
-      "founded_year": null,
+      "industry": "Retail",
+      "founded_year": 2019,
       "revenue_band": "$250M+",
       "tech_signals": [
         "react",
@@ -1172,6 +1176,33 @@
       ],
       "hiring_now": true,
       "last_funding_months_ago": null
+    },
+    "retry_count": 0,
+    "score": 50
+  },
+  {
+    "record_ids": [
+      "R1087"
+    ],
+    "company_name": "Harbor Health International",
+    "domain": "harborhealthintern.com",
+    "industry": "Pharmaceuticals",
+    "employee_count_min": 20,
+    "employee_count_max": 60,
+    "country": "United Kingdom",
+    "contact_email": "info@harbor.com",
+    "source_captured_at_clean": "2025-01-28",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "harborhealthintern.com",
+      "employee_count": 750,
+      "industry": "Construction",
+      "founded_year": 1989,
+      "revenue_band": "<$1M",
+      "tech_signals": null,
+      "hiring_now": true,
+      "last_funding_months_ago": 7
     },
     "retry_count": 0,
     "score": 50
@@ -1227,8 +1258,8 @@
       "domain": "sterlingroboticspa.com",
       "employee_count": 8,
       "industry": "Construction",
-      "founded_year": null,
-      "revenue_band": null,
+      "founded_year": 2004,
+      "revenue_band": "$50M-$250M",
       "tech_signals": [
         "gcp"
       ],
@@ -1344,7 +1375,7 @@
     "enrichment": {
       "domain": "zephyrdronespartne.com",
       "employee_count": 8,
-      "industry": "Energy",
+      "industry": null,
       "founded_year": null,
       "revenue_band": "$1M-$10M",
       "tech_signals": [
@@ -1377,8 +1408,8 @@
       "employee_count": 320,
       "industry": "Energy",
       "founded_year": 2001,
-      "revenue_band": null,
-      "tech_signals": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [],
       "hiring_now": true,
       "last_funding_months_ago": 7
     },
@@ -1404,44 +1435,12 @@
       "employee_count": 60,
       "industry": "Software",
       "founded_year": 1991,
-      "revenue_band": "$1M-$10M",
-      "tech_signals": [],
+      "revenue_band": null,
+      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
-    "retry_count": 0,
-    "score": 50
-  },
-  {
-    "record_ids": [
-      "R1423"
-    ],
-    "company_name": "Willow Childcare Group Ltd",
-    "domain": "willowchildcaregro.com",
-    "industry": "Logistics",
-    "employee_count_min": null,
-    "employee_count_max": null,
-    "country": null,
-    "contact_email": null,
-    "source_captured_at_clean": "2025-05-10",
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "willowchildcaregro.com",
-      "employee_count": 1500,
-      "industry": "Retail",
-      "founded_year": 1987,
-      "revenue_band": "<$1M",
-      "tech_signals": [
-        "datadog",
-        "salesforce",
-        "python",
-        "stripe"
-      ],
-      "hiring_now": false,
-      "last_funding_months_ago": 14
-    },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 50
   },
   {
@@ -1471,7 +1470,7 @@
       "hiring_now": true,
       "last_funding_months_ago": null
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 50
   },
   {
@@ -1538,6 +1537,37 @@
   },
   {
     "record_ids": [
+      "R1454"
+    ],
+    "company_name": "Yarrow Textiles Global",
+    "domain": "yarrowtextilesglob.com",
+    "industry": "Construction",
+    "employee_count_min": null,
+    "employee_count_max": null,
+    "country": "Australia",
+    "contact_email": "info@yarrow.com",
+    "source_captured_at_clean": "2025-08-24",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "yarrowtextilesglob.com",
+      "employee_count": 750,
+      "industry": "Software",
+      "founded_year": null,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "gcp",
+        "stripe",
+        "python"
+      ],
+      "hiring_now": true,
+      "last_funding_months_ago": null
+    },
+    "retry_count": 0,
+    "score": 50
+  },
+  {
+    "record_ids": [
       "R1042",
       "R1044",
       "R1043"
@@ -1556,7 +1586,7 @@
       "domain": "lumenretail.com",
       "employee_count": 4200,
       "industry": "Education",
-      "founded_year": null,
+      "founded_year": 2015,
       "revenue_band": "<$1M",
       "tech_signals": [
         "aws"
@@ -1628,33 +1658,6 @@
       ],
       "hiring_now": true,
       "last_funding_months_ago": null
-    },
-    "retry_count": 0,
-    "score": 45
-  },
-  {
-    "record_ids": [
-      "R1131"
-    ],
-    "company_name": "Meridian Travel Global Corp",
-    "domain": "meridiantravelglob.com",
-    "industry": "Software",
-    "employee_count_min": 11,
-    "employee_count_max": 50,
-    "country": "Australia",
-    "contact_email": "info@meridian.com",
-    "source_captured_at_clean": "2025-07-25",
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "meridiantravelglob.com",
-      "employee_count": 60,
-      "industry": "Finance",
-      "founded_year": null,
-      "revenue_band": "$250M+",
-      "tech_signals": null,
-      "hiring_now": true,
-      "last_funding_months_ago": 7
     },
     "retry_count": 0,
     "score": 45
@@ -1802,8 +1805,8 @@
       "domain": "harborhealthholdin.com",
       "employee_count": 320,
       "industry": "Telecom",
-      "founded_year": 2003,
-      "revenue_band": "<$1M",
+      "founded_year": null,
+      "revenue_band": null,
       "tech_signals": [
         "python"
       ],
@@ -1862,8 +1865,8 @@
       "domain": "foxgloveenergyglob.com",
       "employee_count": 750,
       "industry": "Education",
-      "founded_year": null,
-      "revenue_band": null,
+      "founded_year": 2022,
+      "revenue_band": "$250M+",
       "tech_signals": [
         "python",
         "kubernetes"
@@ -1876,27 +1879,30 @@
   },
   {
     "record_ids": [
-      "R1437"
+      "R1466"
     ],
-    "company_name": "Xenon Labs Group",
-    "domain": "xenonlabsgroup.com",
-    "industry": null,
-    "employee_count_min": null,
-    "employee_count_max": null,
-    "country": "Canada",
-    "contact_email": "info@xenon.com",
-    "source_captured_at_clean": "2025-12-14",
+    "company_name": "Anchor Marine Group Inc.",
+    "domain": "anchormarinegroup.com",
+    "industry": "Insurance",
+    "employee_count_min": 10,
+    "employee_count_max": 510,
+    "country": "Germany",
+    "contact_email": "info@anchor.com",
+    "source_captured_at_clean": null,
     "merged_record_count": 1,
     "enrichment_status": "success",
     "enrichment": {
-      "domain": "xenonlabsgroup.com",
-      "employee_count": 140,
-      "industry": "Healthcare",
-      "founded_year": null,
-      "revenue_band": "$250M+",
-      "tech_signals": null,
+      "domain": "anchormarinegroup.com",
+      "employee_count": 8,
+      "industry": "Retail",
+      "founded_year": 2015,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "datadog",
+        "gcp"
+      ],
       "hiring_now": true,
-      "last_funding_months_ago": 7
+      "last_funding_months_ago": 14
     },
     "retry_count": 0,
     "score": 45
@@ -2021,7 +2027,7 @@
       "hiring_now": true,
       "last_funding_months_ago": null
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 40
   },
   {
@@ -2042,8 +2048,8 @@
       "domain": "halcyonpharmapartn.com",
       "employee_count": 60,
       "industry": "Energy",
-      "founded_year": null,
-      "revenue_band": null,
+      "founded_year": 2022,
+      "revenue_band": "$250M+",
       "tech_signals": [
         "aws",
         "snowflake",
@@ -2086,6 +2092,37 @@
   },
   {
     "record_ids": [
+      "R1081"
+    ],
+    "company_name": "Harbor Health Ltd",
+    "domain": "harborhealth.com",
+    "industry": "Hospitality",
+    "employee_count_min": 130,
+    "employee_count_max": 130,
+    "country": "United States",
+    "contact_email": null,
+    "source_captured_at_clean": "2025-08-23",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "harborhealth.com",
+      "employee_count": 140,
+      "industry": "Education",
+      "founded_year": 2005,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "aws",
+        "gcp",
+        "salesforce"
+      ],
+      "hiring_now": false,
+      "last_funding_months_ago": 7
+    },
+    "retry_count": 0,
+    "score": 40
+  },
+  {
+    "record_ids": [
       "R1197",
       "R1196",
       "R1194",
@@ -2105,7 +2142,7 @@
       "domain": "driftapparel.com",
       "employee_count": 140,
       "industry": "Insurance",
-      "founded_year": null,
+      "founded_year": 2015,
       "revenue_band": "$50M-$250M",
       "tech_signals": [
         "aws",
@@ -2137,8 +2174,8 @@
       "domain": "cobalttelecomholdi.com",
       "employee_count": 320,
       "industry": "Telecom",
-      "founded_year": null,
-      "revenue_band": null,
+      "founded_year": 2020,
+      "revenue_band": "$250M+",
       "tech_signals": [
         "salesforce"
       ],
@@ -2179,7 +2216,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 40
   },
   {
@@ -2209,7 +2246,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 3
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 40
   },
   {
@@ -2243,7 +2280,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 7
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 40
   },
   {
@@ -2402,7 +2439,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 40
   },
   {
@@ -2430,7 +2467,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 40
   },
   {
@@ -2460,7 +2497,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 40
   },
   {
@@ -2480,8 +2517,8 @@
     "enrichment": {
       "domain": "sterlingroboticsin.com",
       "employee_count": 4200,
-      "industry": "Software",
-      "founded_year": 1993,
+      "industry": null,
+      "founded_year": null,
       "revenue_band": "$50M-$250M",
       "tech_signals": [
         "python",
@@ -2588,36 +2625,6 @@
   },
   {
     "record_ids": [
-      "R1482"
-    ],
-    "company_name": "BIRCH FURNITURE GLOBAL CORP",
-    "domain": "birchfurnitureglob.com",
-    "industry": "Hospitality",
-    "employee_count_min": 1200,
-    "employee_count_max": 1200,
-    "country": null,
-    "contact_email": "info@birch.com",
-    "source_captured_at_clean": "2025-06-06",
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "birchfurnitureglob.com",
-      "employee_count": 1500,
-      "industry": "Gaming",
-      "founded_year": 2003,
-      "revenue_band": "$10M-$50M",
-      "tech_signals": [
-        "python",
-        "kubernetes"
-      ],
-      "hiring_now": false,
-      "last_funding_months_ago": 14
-    },
-    "retry_count": 0,
-    "score": 40
-  },
-  {
-    "record_ids": [
       "R1091"
     ],
     "company_name": "vanta,foods incorporated",
@@ -2706,7 +2713,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 3
     },
-    "retry_count": 2,
+    "retry_count": 0,
     "score": 40
   },
   {
@@ -2773,7 +2780,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 35
   },
   {
@@ -2980,8 +2987,8 @@
     "enrichment": {
       "domain": "meridiantravelhold.com",
       "employee_count": 1500,
-      "industry": "Media",
-      "founded_year": 1988,
+      "industry": null,
+      "founded_year": null,
       "revenue_band": "$50M-$250M",
       "tech_signals": [
         "datadog",
@@ -2990,7 +2997,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 2,
+    "retry_count": 0,
     "score": 35
   },
   {
@@ -3014,7 +3021,7 @@
       "employee_count": 750,
       "industry": "Gaming",
       "founded_year": 2007,
-      "revenue_band": "$10M-$50M",
+      "revenue_band": null,
       "tech_signals": [
         "python"
       ],
@@ -3082,7 +3089,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 3
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 35
   },
   {
@@ -3109,7 +3116,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 35
   },
   {
@@ -3238,40 +3245,6 @@
   },
   {
     "record_ids": [
-      "R1384",
-      "R1383",
-      "R1382"
-    ],
-    "company_name": "Thicket Gaming LLC",
-    "domain": "thicketgaming.com",
-    "industry": "Insurance",
-    "employee_count_min": 20,
-    "employee_count_max": 520,
-    "country": "United States",
-    "contact_email": "info@thicket.com",
-    "source_captured_at_clean": "2025-12-09",
-    "merged_record_count": 3,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "thicketgaming.com",
-      "employee_count": 24,
-      "industry": "Pharmaceuticals",
-      "founded_year": 1986,
-      "revenue_band": "$50M-$250M",
-      "tech_signals": [
-        "kubernetes",
-        "react",
-        "gcp",
-        "snowflake"
-      ],
-      "hiring_now": false,
-      "last_funding_months_ago": 14
-    },
-    "retry_count": 0,
-    "score": 35
-  },
-  {
-    "record_ids": [
       "R1215"
     ],
     "company_name": "Ember Hospitality International LLC",
@@ -3296,37 +3269,6 @@
       ],
       "hiring_now": true,
       "last_funding_months_ago": null
-    },
-    "retry_count": 0,
-    "score": 35
-  },
-  {
-    "record_ids": [
-      "R1455",
-      "R1456"
-    ],
-    "company_name": "Zephyr Drones Inc",
-    "domain": "zephyrdrones.com",
-    "industry": "Finance",
-    "employee_count_min": 1000,
-    "employee_count_max": null,
-    "country": "Australia",
-    "contact_email": "info@zephyr.com",
-    "source_captured_at_clean": "2025-12-17",
-    "merged_record_count": 2,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "zephyrdrones.com",
-      "employee_count": 320,
-      "industry": "Hospitality",
-      "founded_year": 1995,
-      "revenue_band": null,
-      "tech_signals": [
-        "segment",
-        "python"
-      ],
-      "hiring_now": false,
-      "last_funding_months_ago": 14
     },
     "retry_count": 0,
     "score": 35
@@ -3360,7 +3302,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 35
   },
   {
@@ -3380,39 +3322,12 @@
     "enrichment": {
       "domain": "foxgloveenergyhold.com",
       "employee_count": 140,
-      "industry": null,
+      "industry": "Insurance",
       "founded_year": 2019,
       "revenue_band": "$250M+",
-      "tech_signals": null,
+      "tech_signals": [],
       "hiring_now": true,
       "last_funding_months_ago": 26
-    },
-    "retry_count": 0,
-    "score": 35
-  },
-  {
-    "record_ids": [
-      "R1466"
-    ],
-    "company_name": "Anchor Marine Group Inc.",
-    "domain": "anchormarinegroup.com",
-    "industry": "Insurance",
-    "employee_count_min": 10,
-    "employee_count_max": 510,
-    "country": "Germany",
-    "contact_email": "info@anchor.com",
-    "source_captured_at_clean": null,
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "anchormarinegroup.com",
-      "employee_count": 8,
-      "industry": "Retail",
-      "founded_year": 2015,
-      "revenue_band": null,
-      "tech_signals": null,
-      "hiring_now": true,
-      "last_funding_months_ago": 14
     },
     "retry_count": 0,
     "score": 35
@@ -3465,40 +3380,13 @@
     "enrichment": {
       "domain": "mosaicpayments.com",
       "employee_count": 8,
-      "industry": "Construction",
+      "industry": null,
       "founded_year": 1997,
       "revenue_band": "$50M-$250M",
       "tech_signals": [
         "gcp",
         "stripe"
       ],
-      "hiring_now": true,
-      "last_funding_months_ago": null
-    },
-    "retry_count": 0,
-    "score": 35
-  },
-  {
-    "record_ids": [
-      "R1454"
-    ],
-    "company_name": "Yarrow Textiles Global",
-    "domain": "yarrowtextilesglob.com",
-    "industry": "Construction",
-    "employee_count_min": null,
-    "employee_count_max": null,
-    "country": "Australia",
-    "contact_email": "info@yarrow.com",
-    "source_captured_at_clean": "2025-08-24",
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "yarrowtextilesglob.com",
-      "employee_count": 750,
-      "industry": "Software",
-      "founded_year": null,
-      "revenue_band": "$50M-$250M",
-      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": null
     },
@@ -3623,11 +3511,39 @@
       "domain": "brightpathanalytic.com",
       "employee_count": 60,
       "industry": "Education",
-      "founded_year": 1989,
-      "revenue_band": "<$1M",
+      "founded_year": null,
+      "revenue_band": null,
       "tech_signals": [],
       "hiring_now": true,
       "last_funding_months_ago": null
+    },
+    "retry_count": 0,
+    "score": 30
+  },
+  {
+    "record_ids": [
+      "R1229",
+      "R1230"
+    ],
+    "company_name": "Granite Insurance Partners Corp",
+    "domain": "graniteinsurancepa.com",
+    "industry": "Pharmaceuticals",
+    "employee_count_min": 130,
+    "employee_count_max": 130,
+    "country": "Australia",
+    "contact_email": "info@granite.com",
+    "source_captured_at_clean": "2025-09-06",
+    "merged_record_count": 2,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "graniteinsurancepa.com",
+      "employee_count": 1500,
+      "industry": null,
+      "founded_year": 2014,
+      "revenue_band": "<$1M",
+      "tech_signals": null,
+      "hiring_now": false,
+      "last_funding_months_ago": 14
     },
     "retry_count": 0,
     "score": 30
@@ -3651,8 +3567,8 @@
     "enrichment": {
       "domain": "sterlingroboticsgr.com",
       "employee_count": 60,
-      "industry": "Insurance",
-      "founded_year": 2001,
+      "industry": null,
+      "founded_year": null,
       "revenue_band": "$10M-$50M",
       "tech_signals": [
         "react",
@@ -3687,6 +3603,36 @@
       "revenue_band": "<$1M",
       "tech_signals": [
         "gcp"
+      ],
+      "hiring_now": false,
+      "last_funding_months_ago": 3
+    },
+    "retry_count": 0,
+    "score": 30
+  },
+  {
+    "record_ids": [
+      "R1478",
+      "R1479"
+    ],
+    "company_name": "Birch Furniture International Co.",
+    "domain": "birchfurnitureinte.com",
+    "industry": "Education",
+    "employee_count_min": 540,
+    "employee_count_max": 540,
+    "country": "Germany",
+    "contact_email": "info@birch.com",
+    "source_captured_at_clean": "2025-11-10",
+    "merged_record_count": 2,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "birchfurnitureinte.com",
+      "employee_count": 24,
+      "industry": "Software",
+      "founded_year": 2006,
+      "revenue_band": "<$1M",
+      "tech_signals": [
+        "python"
       ],
       "hiring_now": false,
       "last_funding_months_ago": 3
@@ -3758,37 +3704,6 @@
   },
   {
     "record_ids": [
-      "R1475",
-      "R1476"
-    ],
-    "company_name": "BIRCH FURNITURE GROUP CO.",
-    "domain": "birchfurnituregrou.com",
-    "industry": "Healthcare",
-    "employee_count_min": 18,
-    "employee_count_max": 18,
-    "country": "India",
-    "contact_email": "info@birch.com",
-    "source_captured_at_clean": "2025-08-01",
-    "merged_record_count": 2,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "birchfurnituregrou.com",
-      "employee_count": 4200,
-      "industry": null,
-      "founded_year": 2007,
-      "revenue_band": null,
-      "tech_signals": [
-        "react",
-        "segment"
-      ],
-      "hiring_now": false,
-      "last_funding_months_ago": null
-    },
-    "retry_count": 0,
-    "score": 30
-  },
-  {
-    "record_ids": [
       "R1292"
     ],
     "company_name": "larkspur toys holdings ltd",
@@ -3835,7 +3750,7 @@
       "employee_count": 4200,
       "industry": "Energy",
       "founded_year": 1998,
-      "revenue_band": null,
+      "revenue_band": "$50M-$250M",
       "tech_signals": [],
       "hiring_now": false,
       "last_funding_months_ago": 14
@@ -3865,8 +3780,8 @@
       "employee_count": 24,
       "industry": "Insurance",
       "founded_year": 1998,
-      "revenue_band": "$250M+",
-      "tech_signals": [],
+      "revenue_band": null,
+      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
@@ -3904,35 +3819,6 @@
       "last_funding_months_ago": 26
     },
     "retry_count": 0,
-    "score": 30
-  },
-  {
-    "record_ids": [
-      "R1469"
-    ],
-    "company_name": "Anchor Marine Partners Incorporated",
-    "domain": "anchormarinepartne.com",
-    "industry": "Hospitality",
-    "employee_count_min": 200,
-    "employee_count_max": 240,
-    "country": "United States",
-    "contact_email": null,
-    "source_captured_at_clean": "2025-01-09",
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "anchormarinepartne.com",
-      "employee_count": 24,
-      "industry": "Construction",
-      "founded_year": null,
-      "revenue_band": "<$1M",
-      "tech_signals": [
-        "kubernetes"
-      ],
-      "hiring_now": true,
-      "last_funding_months_ago": null
-    },
-    "retry_count": 1,
     "score": 30
   },
   {
@@ -4059,7 +3945,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 14
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 30
   },
   {
@@ -4081,7 +3967,7 @@
       "employee_count": 24,
       "industry": "Manufacturing",
       "founded_year": 1985,
-      "revenue_band": "$10M-$50M",
+      "revenue_band": null,
       "tech_signals": [
         "react"
       ],
@@ -4119,7 +4005,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 30
   },
   {
@@ -4139,9 +4025,9 @@
     "enrichment": {
       "domain": "anchormarineintern.com",
       "employee_count": 1500,
-      "industry": null,
+      "industry": "Retail",
       "founded_year": 2019,
-      "revenue_band": null,
+      "revenue_band": "$10M-$50M",
       "tech_signals": [
         "azure"
       ],
@@ -4203,7 +4089,7 @@
       "employee_count": 8,
       "industry": "Hospitality",
       "founded_year": 2005,
-      "revenue_band": "$250M+",
+      "revenue_band": null,
       "tech_signals": [
         "segment",
         "gcp"
@@ -4241,7 +4127,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 30
   },
   {
@@ -4267,6 +4153,60 @@
       "tech_signals": [
         "segment"
       ],
+      "hiring_now": false,
+      "last_funding_months_ago": 14
+    },
+    "retry_count": 0,
+    "score": 30
+  },
+  {
+    "record_ids": [
+      "R1423"
+    ],
+    "company_name": "Willow Childcare Group Ltd",
+    "domain": "willowchildcaregro.com",
+    "industry": "Logistics",
+    "employee_count_min": null,
+    "employee_count_max": null,
+    "country": null,
+    "contact_email": null,
+    "source_captured_at_clean": "2025-05-10",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "willowchildcaregro.com",
+      "employee_count": 1500,
+      "industry": "Retail",
+      "founded_year": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null,
+      "hiring_now": false,
+      "last_funding_months_ago": 14
+    },
+    "retry_count": 1,
+    "score": 30
+  },
+  {
+    "record_ids": [
+      "R1482"
+    ],
+    "company_name": "BIRCH FURNITURE GLOBAL CORP",
+    "domain": "birchfurnitureglob.com",
+    "industry": "Hospitality",
+    "employee_count_min": 1200,
+    "employee_count_max": 1200,
+    "country": null,
+    "contact_email": "info@birch.com",
+    "source_captured_at_clean": "2025-06-06",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "birchfurnitureglob.com",
+      "employee_count": 1500,
+      "industry": "Gaming",
+      "founded_year": 2003,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": 14
     },
@@ -4371,7 +4311,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 25
   },
   {
@@ -4399,6 +4339,35 @@
       "last_funding_months_ago": null
     },
     "retry_count": 0,
+    "score": 25
+  },
+  {
+    "record_ids": [
+      "R1138"
+    ],
+    "company_name": "Foxglove Energy Group Co",
+    "domain": "foxgloveenergygrou.com",
+    "industry": "Logistics",
+    "employee_count_min": 500,
+    "employee_count_max": 590,
+    "country": "Germany",
+    "contact_email": null,
+    "source_captured_at_clean": null,
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "foxgloveenergygrou.com",
+      "employee_count": 1500,
+      "industry": "Telecom",
+      "founded_year": 2012,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": [
+        "salesforce"
+      ],
+      "hiring_now": false,
+      "last_funding_months_ago": null
+    },
+    "retry_count": 1,
     "score": 25
   },
   {
@@ -4454,7 +4423,7 @@
       "employee_count": 24,
       "industry": "Pharmaceuticals",
       "founded_year": 1992,
-      "revenue_band": null,
+      "revenue_band": "$1M-$10M",
       "tech_signals": [
         "kubernetes",
         "segment",
@@ -4498,33 +4467,6 @@
   },
   {
     "record_ids": [
-      "R1081"
-    ],
-    "company_name": "Harbor Health Ltd",
-    "domain": "harborhealth.com",
-    "industry": "Hospitality",
-    "employee_count_min": 130,
-    "employee_count_max": 130,
-    "country": "United States",
-    "contact_email": null,
-    "source_captured_at_clean": "2025-08-23",
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "harborhealth.com",
-      "employee_count": 140,
-      "industry": "Education",
-      "founded_year": 2005,
-      "revenue_band": "$50M-$250M",
-      "tech_signals": null,
-      "hiring_now": false,
-      "last_funding_months_ago": 7
-    },
-    "retry_count": 0,
-    "score": 25
-  },
-  {
-    "record_ids": [
       "R1289",
       "R1287",
       "R1290",
@@ -4543,8 +4485,8 @@
     "enrichment": {
       "domain": "larkspurtoys.com",
       "employee_count": 4200,
-      "industry": null,
-      "founded_year": null,
+      "industry": "Logistics",
+      "founded_year": 2023,
       "revenue_band": "$10M-$50M",
       "tech_signals": [
         "aws"
@@ -4587,34 +4529,6 @@
   },
   {
     "record_ids": [
-      "R1478",
-      "R1479"
-    ],
-    "company_name": "Birch Furniture International Co.",
-    "domain": "birchfurnitureinte.com",
-    "industry": "Education",
-    "employee_count_min": 540,
-    "employee_count_max": 540,
-    "country": "Germany",
-    "contact_email": "info@birch.com",
-    "source_captured_at_clean": "2025-11-10",
-    "merged_record_count": 2,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "birchfurnitureinte.com",
-      "employee_count": 24,
-      "industry": null,
-      "founded_year": 2006,
-      "revenue_band": "<$1M",
-      "tech_signals": null,
-      "hiring_now": false,
-      "last_funding_months_ago": 3
-    },
-    "retry_count": 0,
-    "score": 25
-  },
-  {
-    "record_ids": [
       "R1030",
       "R1029",
       "R1028",
@@ -4640,7 +4554,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 25
   },
   {
@@ -4700,7 +4614,34 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1,
+    "retry_count": 0,
+    "score": 25
+  },
+  {
+    "record_ids": [
+      "R1469"
+    ],
+    "company_name": "Anchor Marine Partners Incorporated",
+    "domain": "anchormarinepartne.com",
+    "industry": "Hospitality",
+    "employee_count_min": 200,
+    "employee_count_max": 240,
+    "country": "United States",
+    "contact_email": null,
+    "source_captured_at_clean": "2025-01-09",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "anchormarinepartne.com",
+      "employee_count": 24,
+      "industry": null,
+      "founded_year": 2017,
+      "revenue_band": "<$1M",
+      "tech_signals": null,
+      "hiring_now": true,
+      "last_funding_months_ago": null
+    },
+    "retry_count": 0,
     "score": 25
   },
   {
@@ -4778,41 +4719,12 @@
       "employee_count": 24,
       "industry": "Education",
       "founded_year": 2020,
-      "revenue_band": null,
+      "revenue_band": "$250M+",
       "tech_signals": [
         "stripe"
       ],
       "hiring_now": false,
       "last_funding_months_ago": 7
-    },
-    "retry_count": 0,
-    "score": 25
-  },
-  {
-    "record_ids": [
-      "R1306"
-    ],
-    "company_name": "Mosaic Payments Global",
-    "domain": "mosaicpaymentsglob.com",
-    "industry": "Hospitality",
-    "employee_count_min": 260,
-    "employee_count_max": 260,
-    "country": "Canada",
-    "contact_email": "info@mosaic.com",
-    "source_captured_at_clean": "2025-01-08",
-    "merged_record_count": 1,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "mosaicpaymentsglob.com",
-      "employee_count": 1500,
-      "industry": "Construction",
-      "founded_year": 2011,
-      "revenue_band": "$250M+",
-      "tech_signals": [
-        "kubernetes"
-      ],
-      "hiring_now": false,
-      "last_funding_months_ago": null
     },
     "retry_count": 0,
     "score": 25
@@ -4993,7 +4905,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 25
   },
   {
@@ -5026,34 +4938,30 @@
   },
   {
     "record_ids": [
-      "R1425"
+      "R1455",
+      "R1456"
     ],
-    "company_name": "Willow Childcare Holdings LLC",
-    "domain": "willowchildcarehol.com",
-    "industry": "Retail",
-    "employee_count_min": null,
+    "company_name": "Zephyr Drones Inc",
+    "domain": "zephyrdrones.com",
+    "industry": "Finance",
+    "employee_count_min": 1000,
     "employee_count_max": null,
-    "country": null,
-    "contact_email": "info@willow.com",
-    "source_captured_at_clean": "2025-11-10",
-    "merged_record_count": 1,
+    "country": "Australia",
+    "contact_email": "info@zephyr.com",
+    "source_captured_at_clean": "2025-12-17",
+    "merged_record_count": 2,
     "enrichment_status": "success",
     "enrichment": {
-      "domain": "willowchildcarehol.com",
-      "employee_count": 24,
-      "industry": "Logistics",
-      "founded_year": 2015,
-      "revenue_band": "$50M-$250M",
-      "tech_signals": [
-        "gcp",
-        "snowflake",
-        "datadog",
-        "stripe"
-      ],
+      "domain": "zephyrdrones.com",
+      "employee_count": 320,
+      "industry": "Hospitality",
+      "founded_year": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null,
       "hiring_now": false,
-      "last_funding_months_ago": null
+      "last_funding_months_ago": 14
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 25
   },
   {
@@ -5084,7 +4992,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 25
   },
   {
@@ -5116,7 +5024,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 25
   },
   {
@@ -5151,24 +5059,25 @@
   },
   {
     "record_ids": [
-      "R1138"
+      "R1475",
+      "R1476"
     ],
-    "company_name": "Foxglove Energy Group Co",
-    "domain": "foxgloveenergygrou.com",
-    "industry": "Logistics",
-    "employee_count_min": 500,
-    "employee_count_max": 590,
-    "country": "Germany",
-    "contact_email": null,
-    "source_captured_at_clean": null,
-    "merged_record_count": 1,
+    "company_name": "BIRCH FURNITURE GROUP CO.",
+    "domain": "birchfurnituregrou.com",
+    "industry": "Healthcare",
+    "employee_count_min": 18,
+    "employee_count_max": 18,
+    "country": "India",
+    "contact_email": "info@birch.com",
+    "source_captured_at_clean": "2025-08-01",
+    "merged_record_count": 2,
     "enrichment_status": "success",
     "enrichment": {
-      "domain": "foxgloveenergygrou.com",
-      "employee_count": 1500,
-      "industry": null,
-      "founded_year": 2012,
-      "revenue_band": "$50M-$250M",
+      "domain": "birchfurnituregrou.com",
+      "employee_count": 4200,
+      "industry": "Hospitality",
+      "founded_year": 2007,
+      "revenue_band": "<$1M",
       "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": null
@@ -5263,6 +5172,33 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
+    "retry_count": 1,
+    "score": 20
+  },
+  {
+    "record_ids": [
+      "R1306"
+    ],
+    "company_name": "Mosaic Payments Global",
+    "domain": "mosaicpaymentsglob.com",
+    "industry": "Hospitality",
+    "employee_count_min": 260,
+    "employee_count_max": 260,
+    "country": "Canada",
+    "contact_email": "info@mosaic.com",
+    "source_captured_at_clean": "2025-01-08",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "mosaicpaymentsglob.com",
+      "employee_count": 1500,
+      "industry": "Construction",
+      "founded_year": 2011,
+      "revenue_band": "$250M+",
+      "tech_signals": null,
+      "hiring_now": false,
+      "last_funding_months_ago": null
+    },
     "retry_count": 0,
     "score": 20
   },
@@ -5284,7 +5220,7 @@
       "domain": "pinecrestmediainte.com",
       "employee_count": 60,
       "industry": "Insurance",
-      "founded_year": 1993,
+      "founded_year": null,
       "revenue_band": "$1M-$10M",
       "tech_signals": [],
       "hiring_now": false,
@@ -5318,7 +5254,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 20
   },
   {
@@ -5348,6 +5284,40 @@
     },
     "retry_count": 0,
     "score": 20
+  },
+  {
+    "record_ids": [
+      "R1433",
+      "R1436",
+      "R1435",
+      "R1431",
+      "R1432",
+      "R1434"
+    ],
+    "company_name": "Xenon Labs Co",
+    "domain": "xenonlabs.com",
+    "industry": "Healthcare",
+    "employee_count_min": 200,
+    "employee_count_max": 400,
+    "country": "United States",
+    "contact_email": "info@xenon.com",
+    "source_captured_at_clean": "2025-08-23",
+    "merged_record_count": 6,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "xenonlabs.com",
+      "employee_count": 60,
+      "industry": "Software",
+      "founded_year": 1999,
+      "revenue_band": "$250M+",
+      "tech_signals": [
+        "azure"
+      ],
+      "hiring_now": false,
+      "last_funding_months_ago": null
+    },
+    "retry_count": 0,
+    "score": 15
   },
   {
     "record_ids": [
@@ -5399,7 +5369,7 @@
     "enrichment": {
       "domain": "meridiantravel.com",
       "employee_count": 140,
-      "industry": "Telecom",
+      "industry": null,
       "founded_year": 2007,
       "revenue_band": "$1M-$10M",
       "tech_signals": [
@@ -5456,7 +5426,7 @@
     "enrichment": {
       "domain": "saffronspicesgloba.com",
       "employee_count": 8,
-      "industry": "Insurance",
+      "industry": null,
       "founded_year": 1991,
       "revenue_band": "$250M+",
       "tech_signals": [
@@ -5465,6 +5435,35 @@
       ],
       "hiring_now": false,
       "last_funding_months_ago": null
+    },
+    "retry_count": 0,
+    "score": 15
+  },
+  {
+    "record_ids": [
+      "R1384",
+      "R1383",
+      "R1382"
+    ],
+    "company_name": "Thicket Gaming LLC",
+    "domain": "thicketgaming.com",
+    "industry": "Insurance",
+    "employee_count_min": 20,
+    "employee_count_max": 520,
+    "country": "United States",
+    "contact_email": "info@thicket.com",
+    "source_captured_at_clean": "2025-12-09",
+    "merged_record_count": 3,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "thicketgaming.com",
+      "employee_count": 24,
+      "industry": "Pharmaceuticals",
+      "founded_year": 1986,
+      "revenue_band": null,
+      "tech_signals": null,
+      "hiring_now": false,
+      "last_funding_months_ago": 14
     },
     "retry_count": 0,
     "score": 15
@@ -5491,38 +5490,6 @@
       "founded_year": 1990,
       "revenue_band": "$10M-$50M",
       "tech_signals": [],
-      "hiring_now": false,
-      "last_funding_months_ago": null
-    },
-    "retry_count": 0,
-    "score": 10
-  },
-  {
-    "record_ids": [
-      "R1433",
-      "R1436",
-      "R1435",
-      "R1431",
-      "R1432",
-      "R1434"
-    ],
-    "company_name": "Xenon Labs Co",
-    "domain": "xenonlabs.com",
-    "industry": "Healthcare",
-    "employee_count_min": 200,
-    "employee_count_max": 400,
-    "country": "United States",
-    "contact_email": "info@xenon.com",
-    "source_captured_at_clean": "2025-08-23",
-    "merged_record_count": 6,
-    "enrichment_status": "success",
-    "enrichment": {
-      "domain": "xenonlabs.com",
-      "employee_count": 60,
-      "industry": "Software",
-      "founded_year": 1999,
-      "revenue_band": "$250M+",
-      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": null
     },
@@ -5606,9 +5573,9 @@
     "enrichment": {
       "domain": "yarrowtextilespart.com",
       "employee_count": 24,
-      "industry": "Education",
+      "industry": null,
       "founded_year": 2022,
-      "revenue_band": "$250M+",
+      "revenue_band": null,
       "tech_signals": [],
       "hiring_now": false,
       "last_funding_months_ago": 26
@@ -5731,7 +5698,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 10
   },
   {
@@ -5785,7 +5752,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 10
   },
   {
@@ -5834,9 +5801,9 @@
       "domain": "cedarsystemsglobal.com",
       "employee_count": 8,
       "industry": "Education",
-      "founded_year": null,
+      "founded_year": 2021,
       "revenue_band": "<$1M",
-      "tech_signals": null,
+      "tech_signals": [],
       "hiring_now": false,
       "last_funding_months_ago": null
     },
@@ -5866,6 +5833,33 @@
       "founded_year": 2010,
       "revenue_band": "$10M-$50M",
       "tech_signals": [],
+      "hiring_now": false,
+      "last_funding_months_ago": null
+    },
+    "retry_count": 1,
+    "score": 5
+  },
+  {
+    "record_ids": [
+      "R1425"
+    ],
+    "company_name": "Willow Childcare Holdings LLC",
+    "domain": "willowchildcarehol.com",
+    "industry": "Retail",
+    "employee_count_min": null,
+    "employee_count_max": null,
+    "country": null,
+    "contact_email": "info@willow.com",
+    "source_captured_at_clean": "2025-11-10",
+    "merged_record_count": 1,
+    "enrichment_status": "success",
+    "enrichment": {
+      "domain": "willowchildcarehol.com",
+      "employee_count": 24,
+      "industry": "Logistics",
+      "founded_year": 2015,
+      "revenue_band": "$50M-$250M",
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": null
     },
@@ -6061,7 +6055,7 @@
     "merged_record_count": 2,
     "enrichment_status": "http_error_404",
     "enrichment": null,
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 0
   },
   {
@@ -6122,7 +6116,7 @@
     "merged_record_count": 1,
     "enrichment_status": "http_error_404",
     "enrichment": null,
-    "retry_count": 1,
+    "retry_count": 0,
     "score": 0
   },
   {
@@ -6140,7 +6134,7 @@
     "merged_record_count": 1,
     "enrichment_status": "http_error_404",
     "enrichment": null,
-    "retry_count": 0,
+    "retry_count": 1,
     "score": 0
   },
   {

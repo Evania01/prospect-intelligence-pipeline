@@ -106,7 +106,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -182,14 +182,16 @@
     "enrichment": {
       "domain": "foxgloveenergygrou.com",
       "employee_count": 1500,
-      "industry": null,
+      "industry": "Telecom",
       "founded_year": 2012,
       "revenue_band": "$50M-$250M",
-      "tech_signals": null,
+      "tech_signals": [
+        "salesforce"
+      ],
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -221,8 +223,8 @@
       "domain": "brightpathanalytic.com",
       "employee_count": 60,
       "industry": "Education",
-      "founded_year": 1989,
-      "revenue_band": "<$1M",
+      "founded_year": null,
+      "revenue_band": null,
       "tech_signals": [],
       "hiring_now": true,
       "last_funding_months_ago": null
@@ -269,7 +271,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -299,7 +301,7 @@
       "hiring_now": true,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -321,13 +323,8 @@
       "employee_count": 1500,
       "industry": null,
       "founded_year": 2014,
-      "revenue_band": null,
-      "tech_signals": [
-        "python",
-        "datadog",
-        "gcp",
-        "segment"
-      ],
+      "revenue_band": "<$1M",
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": 14
     },
@@ -417,7 +414,9 @@
       "industry": "Software",
       "founded_year": 1999,
       "revenue_band": "$250M+",
-      "tech_signals": null,
+      "tech_signals": [
+        "azure"
+      ],
       "hiring_now": false,
       "last_funding_months_ago": null
     },
@@ -442,7 +441,7 @@
     "enrichment": {
       "domain": "cobalttelecomgroup.com",
       "employee_count": 1500,
-      "industry": null,
+      "industry": "Media",
       "founded_year": 1995,
       "revenue_band": "<$1M",
       "tech_signals": [
@@ -559,8 +558,8 @@
     "enrichment": {
       "domain": "sterlingroboticsgr.com",
       "employee_count": 60,
-      "industry": "Insurance",
-      "founded_year": 2001,
+      "industry": null,
+      "founded_year": null,
       "revenue_band": "$10M-$50M",
       "tech_signals": [
         "react",
@@ -591,7 +590,7 @@
     "enrichment": {
       "domain": "kestrelsecurity.com",
       "employee_count": 140,
-      "industry": null,
+      "industry": "Logistics",
       "founded_year": 2023,
       "revenue_band": "$1M-$10M",
       "tech_signals": [
@@ -654,9 +653,9 @@
     "enrichment": {
       "domain": "onyxmining.com",
       "employee_count": 320,
-      "industry": "Construction",
+      "industry": null,
       "founded_year": 2010,
-      "revenue_band": "$10M-$50M",
+      "revenue_band": null,
       "tech_signals": [],
       "hiring_now": true,
       "last_funding_months_ago": 3
@@ -777,7 +776,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -845,7 +844,7 @@
       "domain": "lumenretail.com",
       "employee_count": 4200,
       "industry": "Education",
-      "founded_year": null,
+      "founded_year": 2015,
       "revenue_band": "<$1M",
       "tech_signals": [
         "aws"
@@ -903,8 +902,8 @@
       "domain": "halcyonpharmapartn.com",
       "employee_count": 60,
       "industry": "Energy",
-      "founded_year": null,
-      "revenue_band": null,
+      "founded_year": 2022,
+      "revenue_band": "$250M+",
       "tech_signals": [
         "aws",
         "snowflake",
@@ -1012,7 +1011,7 @@
       "employee_count": 24,
       "industry": "Pharmaceuticals",
       "founded_year": 1992,
-      "revenue_band": null,
+      "revenue_band": "$1M-$10M",
       "tech_signals": [
         "kubernetes",
         "segment",
@@ -1099,9 +1098,9 @@
       "domain": "cedarsystemsglobal.com",
       "employee_count": 8,
       "industry": "Education",
-      "founded_year": null,
+      "founded_year": 2021,
       "revenue_band": "<$1M",
-      "tech_signals": null,
+      "tech_signals": [],
       "hiring_now": false,
       "last_funding_months_ago": null
     },
@@ -1126,10 +1125,14 @@
     "enrichment": {
       "domain": "quartzlegalglobal.com",
       "employee_count": 4200,
-      "industry": null,
+      "industry": "Construction",
       "founded_year": 2021,
       "revenue_band": "$1M-$10M",
-      "tech_signals": null,
+      "tech_signals": [
+        "stripe",
+        "segment",
+        "react"
+      ],
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
@@ -1183,7 +1186,11 @@
       "industry": "Education",
       "founded_year": 2005,
       "revenue_band": "$50M-$250M",
-      "tech_signals": null,
+      "tech_signals": [
+        "aws",
+        "gcp",
+        "salesforce"
+      ],
       "hiring_now": false,
       "last_funding_months_ago": 7
     },
@@ -1210,7 +1217,7 @@
       "domain": "driftapparel.com",
       "employee_count": 140,
       "industry": "Insurance",
-      "founded_year": null,
+      "founded_year": 2015,
       "revenue_band": "$50M-$250M",
       "tech_signals": [
         "aws",
@@ -1242,8 +1249,8 @@
     "enrichment": {
       "domain": "larkspurtoys.com",
       "employee_count": 4200,
-      "industry": null,
-      "founded_year": null,
+      "industry": "Logistics",
+      "founded_year": 2023,
       "revenue_band": "$10M-$50M",
       "tech_signals": [
         "aws"
@@ -1300,10 +1307,12 @@
     "enrichment": {
       "domain": "birchfurnitureinte.com",
       "employee_count": 24,
-      "industry": null,
+      "industry": "Software",
       "founded_year": 2006,
       "revenue_band": "<$1M",
-      "tech_signals": null,
+      "tech_signals": [
+        "python"
+      ],
       "hiring_now": false,
       "last_funding_months_ago": 3
     },
@@ -1327,8 +1336,8 @@
       "domain": "xenonlabspartners.com",
       "employee_count": 140,
       "industry": "Insurance",
-      "founded_year": 1991,
-      "revenue_band": null,
+      "founded_year": null,
+      "revenue_band": "$10M-$50M",
       "tech_signals": [
         "stripe",
         "salesforce",
@@ -1338,7 +1347,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -1421,8 +1430,8 @@
       "domain": "cobalttelecomholdi.com",
       "employee_count": 320,
       "industry": "Telecom",
-      "founded_year": null,
-      "revenue_band": null,
+      "founded_year": 2020,
+      "revenue_band": "$250M+",
       "tech_signals": [
         "salesforce"
       ],
@@ -1518,7 +1527,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -1572,7 +1581,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -1622,13 +1631,10 @@
     "enrichment": {
       "domain": "birchfurnituregrou.com",
       "employee_count": 4200,
-      "industry": null,
+      "industry": "Hospitality",
       "founded_year": 2007,
-      "revenue_band": null,
-      "tech_signals": [
-        "react",
-        "segment"
-      ],
+      "revenue_band": "<$1M",
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": null
     },
@@ -1712,8 +1718,8 @@
     "enrichment": {
       "domain": "acorneducation.com",
       "employee_count": 4200,
-      "industry": null,
-      "founded_year": null,
+      "industry": "Retail",
+      "founded_year": 2019,
       "revenue_band": "$250M+",
       "tech_signals": [
         "react",
@@ -1779,7 +1785,7 @@
     "enrichment": {
       "domain": "meridiantravel.com",
       "employee_count": 140,
-      "industry": "Telecom",
+      "industry": null,
       "founded_year": 2007,
       "revenue_band": "$1M-$10M",
       "tech_signals": [
@@ -1860,13 +1866,11 @@
       "industry": "Construction",
       "founded_year": 1989,
       "revenue_band": "<$1M",
-      "tech_signals": [
-        "salesforce"
-      ],
+      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": 7
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -1886,8 +1890,8 @@
     "enrichment": {
       "domain": "acorneducationinte.com",
       "employee_count": 4200,
-      "industry": "Insurance",
-      "founded_year": 1990,
+      "industry": null,
+      "founded_year": null,
       "revenue_band": "$10M-$50M",
       "tech_signals": [
         "hubspot",
@@ -1950,9 +1954,9 @@
     "enrichment": {
       "domain": "yarrowtextilespart.com",
       "employee_count": 24,
-      "industry": "Education",
+      "industry": null,
       "founded_year": 2022,
-      "revenue_band": "$250M+",
+      "revenue_band": null,
       "tech_signals": [],
       "hiring_now": false,
       "last_funding_months_ago": 26
@@ -1976,8 +1980,8 @@
     "enrichment": {
       "domain": "meridiantravelhold.com",
       "employee_count": 1500,
-      "industry": "Media",
-      "founded_year": 1988,
+      "industry": null,
+      "founded_year": null,
       "revenue_band": "$50M-$250M",
       "tech_signals": [
         "datadog",
@@ -1986,7 +1990,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 2
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -2007,7 +2011,7 @@
       "employee_count": 4200,
       "industry": "Energy",
       "founded_year": 1998,
-      "revenue_band": null,
+      "revenue_band": "$50M-$250M",
       "tech_signals": [],
       "hiring_now": false,
       "last_funding_months_ago": 14
@@ -2045,7 +2049,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -2128,8 +2132,8 @@
       "employee_count": 24,
       "industry": "Insurance",
       "founded_year": 1998,
-      "revenue_band": "$250M+",
-      "tech_signals": [],
+      "revenue_band": null,
+      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
@@ -2183,7 +2187,7 @@
       "employee_count": 750,
       "industry": "Gaming",
       "founded_year": 2007,
-      "revenue_band": "$10M-$50M",
+      "revenue_band": null,
       "tech_signals": [
         "python"
       ],
@@ -2254,7 +2258,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -2305,16 +2309,14 @@
     "enrichment": {
       "domain": "anchormarinepartne.com",
       "employee_count": 24,
-      "industry": "Construction",
-      "founded_year": null,
+      "industry": null,
+      "founded_year": 2017,
       "revenue_band": "<$1M",
-      "tech_signals": [
-        "kubernetes"
-      ],
+      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": null
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -2343,7 +2345,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 3
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -2407,9 +2409,9 @@
       "domain": "saffronspicespartn.com",
       "employee_count": 4200,
       "industry": "Insurance",
-      "founded_year": 2022,
+      "founded_year": null,
       "revenue_band": "$10M-$50M",
-      "tech_signals": [],
+      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
@@ -2446,7 +2448,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 7
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -2496,9 +2498,13 @@
       "domain": "meridiantravelglob.com",
       "employee_count": 60,
       "industry": "Finance",
-      "founded_year": null,
+      "founded_year": 1992,
       "revenue_band": "$250M+",
-      "tech_signals": null,
+      "tech_signals": [
+        "react",
+        "kubernetes",
+        "azure"
+      ],
       "hiring_now": true,
       "last_funding_months_ago": 7
     },
@@ -2610,8 +2616,8 @@
       "domain": "sterlingroboticspa.com",
       "employee_count": 8,
       "industry": "Construction",
-      "founded_year": null,
-      "revenue_band": null,
+      "founded_year": 2004,
+      "revenue_band": "$50M-$250M",
       "tech_signals": [
         "gcp"
       ],
@@ -2768,7 +2774,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 3
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -2790,7 +2796,7 @@
       "employee_count": 24,
       "industry": "Education",
       "founded_year": 2020,
-      "revenue_band": null,
+      "revenue_band": "$250M+",
       "tech_signals": [
         "stripe"
       ],
@@ -2941,7 +2947,7 @@
     "merged_record_count": 2,
     "enrichment_status": "http_error_404",
     "enrichment": null,
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -2970,7 +2976,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -2997,7 +3003,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -3019,9 +3025,7 @@
       "industry": "Construction",
       "founded_year": 2011,
       "revenue_band": "$250M+",
-      "tech_signals": [
-        "kubernetes"
-      ],
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": null
     },
@@ -3079,7 +3083,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 7
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -3168,7 +3172,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 14
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -3194,7 +3198,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -3288,7 +3292,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 14
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -3371,7 +3375,7 @@
       "employee_count": 24,
       "industry": "Manufacturing",
       "founded_year": 1985,
-      "revenue_band": "$10M-$50M",
+      "revenue_band": null,
       "tech_signals": [
         "react"
       ],
@@ -3533,7 +3537,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -3563,7 +3567,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -3603,7 +3607,7 @@
       "employee_count": 4200,
       "industry": "Gaming",
       "founded_year": null,
-      "revenue_band": "<$1M",
+      "revenue_band": null,
       "tech_signals": [
         "salesforce",
         "kubernetes"
@@ -3630,9 +3634,9 @@
     "enrichment": {
       "domain": "anchormarineintern.com",
       "employee_count": 1500,
-      "industry": null,
+      "industry": "Retail",
       "founded_year": 2019,
-      "revenue_band": null,
+      "revenue_band": "$10M-$50M",
       "tech_signals": [
         "azure"
       ],
@@ -3666,7 +3670,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -3695,7 +3699,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -3861,7 +3865,7 @@
       "domain": "junipermobility.com",
       "employee_count": 60,
       "industry": "Logistics",
-      "founded_year": null,
+      "founded_year": 2016,
       "revenue_band": "<$1M",
       "tech_signals": [
         "datadog",
@@ -3889,8 +3893,8 @@
     "enrichment": {
       "domain": "sterlingroboticsin.com",
       "employee_count": 4200,
-      "industry": "Software",
-      "founded_year": 1993,
+      "industry": null,
+      "founded_year": null,
       "revenue_band": "$50M-$250M",
       "tech_signals": [
         "python",
@@ -3922,8 +3926,8 @@
       "domain": "harborhealthholdin.com",
       "employee_count": 320,
       "industry": "Telecom",
-      "founded_year": 2003,
-      "revenue_band": "<$1M",
+      "founded_year": null,
+      "revenue_band": null,
       "tech_signals": [
         "python"
       ],
@@ -4071,8 +4075,8 @@
       "domain": "junipermobilitygro.com",
       "employee_count": 1500,
       "industry": "Healthcare",
-      "founded_year": 2002,
-      "revenue_band": "<$1M",
+      "founded_year": null,
+      "revenue_band": null,
       "tech_signals": [
         "kubernetes",
         "hubspot"
@@ -4186,7 +4190,7 @@
     "enrichment": {
       "domain": "saffronspicesgloba.com",
       "employee_count": 8,
-      "industry": "Insurance",
+      "industry": null,
       "founded_year": 1991,
       "revenue_band": "$250M+",
       "tech_signals": [
@@ -4331,7 +4335,7 @@
     "enrichment": {
       "domain": "zephyrdronespartne.com",
       "employee_count": 8,
-      "industry": "Energy",
+      "industry": null,
       "founded_year": null,
       "revenue_band": "$1M-$10M",
       "tech_signals": [
@@ -4422,8 +4426,8 @@
       "employee_count": 320,
       "industry": "Energy",
       "founded_year": 2001,
-      "revenue_band": null,
-      "tech_signals": null,
+      "revenue_band": "$10M-$50M",
+      "tech_signals": [],
       "hiring_now": true,
       "last_funding_months_ago": 7
     },
@@ -4481,13 +4485,8 @@
       "employee_count": 24,
       "industry": "Pharmaceuticals",
       "founded_year": 1986,
-      "revenue_band": "$50M-$250M",
-      "tech_signals": [
-        "kubernetes",
-        "react",
-        "gcp",
-        "snowflake"
-      ],
+      "revenue_band": null,
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": 14
     },
@@ -4539,8 +4538,8 @@
     "enrichment": {
       "domain": "mosaicpaymentshold.com",
       "employee_count": 750,
-      "industry": null,
-      "founded_year": null,
+      "industry": "Construction",
+      "founded_year": 2009,
       "revenue_band": "$250M+",
       "tech_signals": [
         "gcp",
@@ -4600,7 +4599,7 @@
       "employee_count": 8,
       "industry": "Hospitality",
       "founded_year": 2005,
-      "revenue_band": "$250M+",
+      "revenue_band": null,
       "tech_signals": [
         "segment",
         "gcp"
@@ -4625,7 +4624,7 @@
     "merged_record_count": 1,
     "enrichment_status": "http_error_404",
     "enrichment": null,
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -4645,7 +4644,7 @@
       "domain": "pinecrestmediainte.com",
       "employee_count": 60,
       "industry": "Insurance",
-      "founded_year": 1993,
+      "founded_year": null,
       "revenue_band": "$1M-$10M",
       "tech_signals": [],
       "hiring_now": false,
@@ -4671,8 +4670,8 @@
       "domain": "foxgloveenergyglob.com",
       "employee_count": 750,
       "industry": "Education",
-      "founded_year": null,
-      "revenue_band": null,
+      "founded_year": 2022,
+      "revenue_band": "$250M+",
       "tech_signals": [
         "python",
         "kubernetes"
@@ -4740,7 +4739,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -4818,12 +4817,12 @@
       "employee_count": 60,
       "industry": "Software",
       "founded_year": 1991,
-      "revenue_band": "$1M-$10M",
-      "tech_signals": [],
+      "revenue_band": null,
+      "tech_signals": null,
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -4852,7 +4851,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -4906,7 +4905,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 26
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -4927,16 +4926,13 @@
       "domain": "zephyrdrones.com",
       "employee_count": 320,
       "industry": "Hospitality",
-      "founded_year": 1995,
-      "revenue_band": null,
-      "tech_signals": [
-        "segment",
-        "python"
-      ],
+      "founded_year": null,
+      "revenue_band": "<$1M",
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": 14
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -4962,7 +4958,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -5051,7 +5047,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -5070,10 +5066,10 @@
     "enrichment": {
       "domain": "foxgloveenergyhold.com",
       "employee_count": 140,
-      "industry": null,
+      "industry": "Insurance",
       "founded_year": 2019,
       "revenue_band": "$250M+",
-      "tech_signals": null,
+      "tech_signals": [],
       "hiring_now": true,
       "last_funding_months_ago": 26
     },
@@ -5099,12 +5095,7 @@
       "industry": "Logistics",
       "founded_year": 2015,
       "revenue_band": "$50M-$250M",
-      "tech_signals": [
-        "gcp",
-        "snowflake",
-        "datadog",
-        "stripe"
-      ],
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": null
     },
@@ -5139,7 +5130,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 14
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -5160,8 +5151,11 @@
       "employee_count": 8,
       "industry": "Retail",
       "founded_year": 2015,
-      "revenue_band": null,
-      "tech_signals": null,
+      "revenue_band": "$1M-$10M",
+      "tech_signals": [
+        "datadog",
+        "gcp"
+      ],
       "hiring_now": true,
       "last_funding_months_ago": 14
     },
@@ -5214,18 +5208,13 @@
       "domain": "willowchildcaregro.com",
       "employee_count": 1500,
       "industry": "Retail",
-      "founded_year": 1987,
+      "founded_year": null,
       "revenue_band": "<$1M",
-      "tech_signals": [
-        "datadog",
-        "salesforce",
-        "python",
-        "stripe"
-      ],
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": 14
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -5247,10 +5236,7 @@
       "industry": "Gaming",
       "founded_year": 2003,
       "revenue_band": "$10M-$50M",
-      "tech_signals": [
-        "python",
-        "kubernetes"
-      ],
+      "tech_signals": null,
       "hiring_now": false,
       "last_funding_months_ago": 14
     },
@@ -5284,7 +5270,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -5374,7 +5360,7 @@
       "hiring_now": true,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -5394,7 +5380,7 @@
     "enrichment": {
       "domain": "mosaicpayments.com",
       "employee_count": 8,
-      "industry": "Construction",
+      "industry": null,
       "founded_year": 1997,
       "revenue_band": "$50M-$250M",
       "tech_signals": [
@@ -5490,7 +5476,7 @@
       "hiring_now": true,
       "last_funding_months_ago": 3
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -5521,7 +5507,7 @@
       "hiring_now": false,
       "last_funding_months_ago": null
     },
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [
@@ -5570,9 +5556,13 @@
       "domain": "xenonlabsgroup.com",
       "employee_count": 140,
       "industry": "Healthcare",
-      "founded_year": null,
+      "founded_year": 2023,
       "revenue_band": "$250M+",
-      "tech_signals": null,
+      "tech_signals": [
+        "react",
+        "stripe",
+        "kubernetes"
+      ],
       "hiring_now": true,
       "last_funding_months_ago": 7
     },
@@ -5628,7 +5618,11 @@
       "industry": "Software",
       "founded_year": null,
       "revenue_band": "$50M-$250M",
-      "tech_signals": null,
+      "tech_signals": [
+        "gcp",
+        "stripe",
+        "python"
+      ],
       "hiring_now": true,
       "last_funding_months_ago": null
     },
@@ -5690,7 +5684,7 @@
       "hiring_now": true,
       "last_funding_months_ago": null
     },
-    "retry_count": 1
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -5780,7 +5774,7 @@
       "hiring_now": false,
       "last_funding_months_ago": 3
     },
-    "retry_count": 2
+    "retry_count": 0
   },
   {
     "record_ids": [
@@ -5852,7 +5846,7 @@
     "merged_record_count": 1,
     "enrichment_status": "http_error_404",
     "enrichment": null,
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "record_ids": [

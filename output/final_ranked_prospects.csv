@@ -1,0 +1,266 @@
+record_ids,company_name,domain,country,industry,employee_count_min,employee_count_max,contact_email,source_captured_at_clean,merged_record_count,enrichment_status,retry_count,hiring_now,founded_year,revenue_band,tech_signals,last_funding_months_ago,score
+R1066|R1068|R1059|R1067|R1061|R1064|R1065|R1062|R1057|R1069|R1060|R1056,orbit manufacturing international,orbitmanufacturing.com,India,Education,1000,540,info@orbit.com,2025-06-23,12,success,0,True,1990,$1M-$10M,react|azure|salesforce|kubernetes,3,80
+R1351|R1353|R1352,QUARTZ LEGAL GLOBAL LTD,quartzlegalglobal.com,United States,Healthcare,200,240,info@quartz.com,2025-10-22,3,success,0,True,2021,$1M-$10M,stripe|segment|react,3,75
+R1199|R1200|R1201,Drift Apparel Holdings Corp,driftapparelholdin.com,Germany,Insurance,20,220,contact@drift,2025-10-01,3,success,0,True,2020,$50M-$250M,datadog|kubernetes|salesforce|azure,7,75
+R1441,Xenon Labs Partners Co,xenonlabspartners.com,United Kingdom,Construction,100,600,info@xenon.com,2025-08-03,1,success,1,True,,$10M-$50M,stripe|salesforce|aws|react,3,70
+R1072,Quill Software Group Co,quillsoftwaregroup.com,,Insurance,130,130,info@quill.com,2025-02-08,1,success,0,True,,,salesforce|kubernetes,3,70
+R1427|R1428,Willow Childcare International LLC,willowchildcareint.com,Germany,Media,200,290,info@willow.com,2025-11-03,2,success,0,True,1997,$1M-$10M,salesforce|kubernetes|gcp|datadog,26,65
+R1280|R1279|R1277|R1278,"Kestrel,Security",kestrelsecurity.com,United States,Hospitality,51,200,info@kestrel.com,2025-02-26,4,success,0,True,2023,$1M-$10M,azure|gcp|salesforce|react,7,65
+R1363|R1365|R1364,"Rivet,Hardware International Incorporated",rivethardwareinter.com,Australia,Energy,87,87,info@rivet.com,2025-02-03,3,success,0,True,1997,<$1M,snowflake|gcp|datadog,14,65
+R1300,Mosaic Payments Holdings Ltd,mosaicpaymentshold.com,Australia,Construction,201,500,,2025-06-22,1,success,0,True,2009,$250M+,gcp|snowflake|salesforce|react,14,65
+R1467,Anchor Marine Holdings,anchormarineholdin.com,India,Energy,1200,,info@anchor.com,,1,success,0,True,1986,<$1M,snowflake,3,65
+R1369|R1372|R1371,saffron spices co,saffronspices.com,United States,Gaming,42,42,info@saffron.com,2025-07-08,3,success,0,True,2013,$50M-$250M,segment|datadog|salesforce,7,60
+R1035|R1036,"Cedar,Systems International Ltd.",cedarsystemsintern.com,India,Telecom,100,140,info@cedar.com,2025-01-26,2,success,0,True,2009,<$1M,azure|aws|segment|python,,60
+R1162|R1161,acorn education international ltd.,acorneducationinte.com,Germany,Logistics,100,300,info@acorn.com,2025-02-21,2,success,0,False,,$10M-$50M,hubspot|kubernetes|stripe|datadog,3,60
+R1380|R1379,Saffron Spices Partners Co.,saffronspicespartn.com,Australia,Retail,540,,info@saffron.com,2025-03-16,2,success,0,True,,$10M-$50M,,3,60
+R1131,Meridian Travel Global Corp,meridiantravelglob.com,Australia,Software,11,50,info@meridian.com,2025-07-25,1,success,0,True,1992,$250M+,react|kubernetes|azure,7,60
+R1385|R1386,Thicket Gaming Group Co.,thicketgaminggroup.com,India,Gaming,501,1000,contact@thicket,2025-10-03,2,success,0,True,1986,$1M-$10M,azure|aws|stripe|hubspot,26,60
+R1286,kestrel security global incorporated,kestrelsecurityglo.com,Germany,Retail,5,5,info@kestrel.com,2025-07-12,1,success,0,True,1987,$10M-$50M,hubspot|azure|python|snowflake,7,60
+R1361|R1360,"Rivet,Hardware Group Ltd.",rivethardwaregroup.com,United Kingdom,Insurance,500,540,info@rivet.com,2025-08-15,2,success,0,True,2000,$1M-$10M,python|aws,14,60
+R1265|R1267,Juniper Mobility Inc.,junipermobility.com,Canada,Construction,201,500,info@juniper.com,2025-11-07,2,success,0,True,2016,<$1M,datadog|hubspot,3,60
+R1269|R1268,Juniper Mobility Group Incorporated,junipermobilitygro.com,United States,Finance,42,42,info@juniper.com,2025-06-11,2,success,0,True,,,kubernetes|hubspot,14,60
+R1089,"harbor,health global ltd.",harborhealthglobal.com,Canada,Gaming,200,240,info@harbor.com,,1,success,0,False,1996,$50M-$250M,azure|salesforce|segment|aws,3,60
+R1181|R1180,Cobalt Telecom Inc.,cobalttelecom.com,United States,Hospitality,200,400,info@cobalt.com,2025-08-09,2,success,0,True,1993,<$1M,datadog|kubernetes,14,60
+R1437,Xenon Labs Group,xenonlabsgroup.com,Canada,Healthcare,,,info@xenon.com,2025-12-14,1,success,0,True,2023,$250M+,react|stripe|kubernetes,7,60
+R1319|R1321|R1320|R1322,Onyx Mining Ltd.,onyxmining.com,Australia,Insurance,1,10,info@onyx.com,2025-09-02,4,success,0,True,2010,,,3,55
+R1096|R1097,"VANTA,FOODS GLOBAL LTD",vantafoodsglobal.com,United States,Retail,11,50,info@vanta.com,2025-11-25,2,success,0,True,2015,$250M+,kubernetes|stripe,7,55
+R1205,Drift Apparel Partners Incorporated,driftapparelpartne.com,Germany,Software,10,100,info@drift.com,2025-09-18,1,success,0,True,2008,<$1M,salesforce|snowflake,3,55
+R1442,Xenon Labs Global,xenonlabsglobal.com,United States,Software,18,18,info@xenon.com,2025-05-21,1,success,0,True,2021,$1M-$10M,hubspot,14,55
+R1150|R1151,"Tideline,Finance Partners Inc.",tidelinefinancepar.com,India,Pharmaceuticals,1000,1000,info@tideline.com,2025-11-19,2,success,0,False,1999,$250M+,salesforce|hubspot|azure|segment,7,55
+R1335,"PETAL,COSMETICS HOLDINGS INC",petalcosmeticshold.com,United Kingdom,Finance,10,210,,2025-05-14,1,success,0,True,1991,$250M+,react|salesforce|datadog|python,,55
+R1075,Quill Software International Co,quillsoftwareinter.com,United States,Software,500,590,info@quill.com,2025-01-07,1,success,0,True,2020,$1M-$10M,snowflake|hubspot|salesforce|react,,55
+R1281,Kestrel Security Group LLC,kestrelsecuritygro.com,,Hospitality,5,5,info@kestrel.com,2025-06-20,1,success,0,False,2013,$1M-$10M,kubernetes|datadog|azure,3,55
+R1457,ZEPHYR DRONES GROUP INCORPORATED,zephyrdronesgroup.com,,Telecom,,,info@zephyr.com,2025-12-21,1,success,0,True,2002,<$1M,datadog|aws|python|salesforce,14,55
+R1203,Drift Apparel International Ltd.,driftapparelintern.com,,Energy,1200,1200,info@drift.com,2025-09-25,1,success,0,True,1987,<$1M,react|kubernetes|hubspot,,55
+R1438,XENON LABS HOLDINGS INCORPORATED,xenonlabsholdings.com,,Pharmaceuticals,42,42,info@xenon.com,,1,success,0,True,2010,<$1M,gcp|azure,3,55
+R1282,Kestrel Security Holdings LLC,kestrelsecurityhol.com,Germany,Insurance,540,540,,,1,success,0,True,1991,<$1M,kubernetes|snowflake|python,,55
+R1183|R1184|R1182,"COBALT,TELECOM GROUP INC",cobalttelecomgroup.com,Germany,Hospitality,18,18,info@cobalt.com,2025-06-12,3,success,0,False,1995,<$1M,salesforce|azure,3,50
+R1153|R1154|R1156|R1155,ACORN EDUCATION INCORPORATED,acorneducation.com,Germany,Healthcare,1000,520,info@acorn.com,2025-06-24,4,success,0,True,2019,$250M+,react|python,,50
+R1087,Harbor Health International,harborhealthintern.com,United Kingdom,Pharmaceuticals,20,60,info@harbor.com,2025-01-28,1,success,0,True,1989,<$1M,,7,50
+R1211|R1213|R1212,Ember Hospitality Group Corp,emberhospitalitygr.com,United States,Pharmaceuticals,500,700,info@ember.com,2025-07-12,3,success,0,True,2018,<$1M,azure|react|aws,26,50
+R1121,Sterling Robotics Partners Co,sterlingroboticspa.com,India,Hospitality,,,info@sterling.com,2025-07-26,1,success,0,True,2004,$50M-$250M,gcp,3,50
+R1143|R1144|R1146,Tideline Finance Co.,tidelinefinance.com,United Kingdom,Construction,200,400,info@tideline.com,2025-09-01,3,success,0,True,1998,$10M-$50M,snowflake|salesforce|python|gcp,,50
+R1393|R1392,THICKET GAMING PARTNERS CORP,thicketgamingpartn.com,India,Software,50,90,info@thicket.com,2025-06-28,2,success,0,True,2017,$10M-$50M,,14,50
+R1094,"Vanta,Foods International Inc.",vantafoodsinternat.com,United States,Energy,500,1000,info@vanta.com,,1,success,0,True,1988,$10M-$50M,,14,50
+R1461,ZEPHYR DRONES PARTNERS INC,zephyrdronespartne.com,United States,Gaming,10,100,info@zephyr.com,2025-12-04,1,success,0,True,,$1M-$10M,react|python|aws,14,50
+R1458,ZEPHYR DRONES HOLDINGS LTD.,zephyrdronesholdin.com,Canada,Manufacturing,540,,info@zephyr.com,2025-07-16,1,success,0,True,2001,$10M-$50M,,7,50
+R1148,Tideline Finance Holdings Inc.,tidelinefinancehol.com,United States,Finance,87,87,contact@tideline,2025-05-23,1,success,1,True,1991,,,3,50
+R1093,"Vanta,Foods Holdings Incorporated",vantafoodsholdings.com,India,Insurance,,,contact@vanta,2025-04-10,1,success,1,True,2020,$10M-$50M,python|hubspot,,50
+R1104,Pinecrest Media Holdings Co.,pinecrestmediahold.com,United States,Software,18,18,info@pinecrest.com,,1,success,0,True,2021,$50M-$250M,segment|react|kubernetes,,50
+R1326,Onyx Mining Holdings Inc.,onyxminingholdings.com,United States,Pharmaceuticals,1000,,info@onyx.com,2025-04-20,1,success,0,True,2023,$10M-$50M,salesforce|react|snowflake,,50
+R1454,Yarrow Textiles Global,yarrowtextilesglob.com,Australia,Construction,,,info@yarrow.com,2025-08-24,1,success,0,True,,$50M-$250M,gcp|stripe|python,,50
+R1042|R1044|R1043,"Lumen,Retail Incorporated",lumenretail.com,United States,Hospitality,1200,1200,info@lumen.com,2025-03-12,3,success,0,True,2015,<$1M,aws,,45
+R1227,GRANITE INSURANCE HOLDINGS,graniteinsuranceho.com,United States,Finance,1000,,info@granite.com,2025-03-16,1,success,0,False,1999,<$1M,snowflake|stripe|salesforce,14,45
+R1106|R1108|R1107,PINECREST MEDIA PARTNERS CORP,pinecrestmediapart.com,India,Healthcare,20,220,info@pinecrest.com,2025-10-04,3,success,0,True,2022,$1M-$10M,python|datadog|salesforce|azure,,45
+R1133|R1137|R1132|R1135,Foxglove Energy Inc,foxgloveenergy.com,India,Construction,500,590,info@foxglove.com,2025-05-13,4,success,0,True,1989,<$1M,,14,45
+R1037|R1038|R1039,CEDAR SYSTEMS PARTNERS INC,cedarsystemspartne.com,Australia,Education,200,290,info@cedar.com,2025-11-10,3,success,0,False,1989,<$1M,aws|segment,3,45
+R1367|R1366,Rivet Hardware Partners Incorporated,rivethardwarepartn.com,Germany,Gaming,42,42,info@rivet.com,2025-05-05,2,success,0,True,2009,$50M-$250M,react|snowflake,,45
+R1340,Petal Cosmetics Global,petalcosmeticsglob.com,United States,Construction,540,,info@petal.com,2025-05-28,1,success,0,True,2020,$250M+,react|aws|datadog,,45
+R1085|R1086,Harbor Health Holdings Inc.,harborhealthholdin.com,United States,Education,20,110,info@harbor.com,2025-05-12,2,success,0,True,,,python,26,45
+R1272,"Juniper,Mobility International Incorporated",junipermobilityint.com,Canada,Pharmaceuticals,1,10,info@juniper.com,2025-11-09,1,success,0,False,2022,$50M-$250M,react|datadog|salesforce,7,45
+R1142,"Foxglove,Energy Global Ltd.",foxgloveenergyglob.com,United States,Education,87,,info@foxglove.com,2025-08-12,1,success,0,False,2022,$250M+,python|kubernetes,3,45
+R1466,Anchor Marine Group Inc.,anchormarinegroup.com,Germany,Insurance,10,510,info@anchor.com,,1,success,0,True,2015,$1M-$10M,datadog|gcp,14,45
+R1302|R1301,MOSAIC PAYMENTS INTERNATIONAL CO.,mosaicpaymentsinte.com,India,Construction,1200,,info@mosaic.com,2025-02-10,2,success,0,True,2016,$10M-$50M,python|segment|azure,,45
+R1109,PINECREST MEDIA GLOBAL INC,pinecrestmediaglob.com,United States,Healthcare,50,140,info@pinecrest.com,2025-05-02,1,success,0,True,1987,<$1M,python|kubernetes,14,45
+R1378,"Saffron,Spices International Incorporated",saffronspicesinter.com,Germany,Finance,500,540,info@saffron.com,2025-11-04,1,success,0,True,2023,<$1M,datadog|python,,45
+R1460|R1459,ZEPHYR DRONES INTERNATIONAL,zephyrdronesintern.com,Canada,Retail,201,500,info@zephyr.com,2025-06-17,2,success,1,True,1992,$10M-$50M,aws|kubernetes,,40
+R1243,Halcyon Pharma Partners Co,halcyonpharmapartn.com,United Kingdom,Gaming,50,90,info@halcyon.com,2025-07-26,1,success,0,False,2022,$250M+,aws|snowflake|segment,7,40
+R1219|R1217|R1218,EMBER HOSPITALITY GLOBAL LTD,emberhospitalitygl.com,Australia,Finance,500,1000,contact@ember,2025-03-16,3,success,0,False,1997,$250M+,,3,40
+R1081,Harbor Health Ltd,harborhealth.com,United States,Hospitality,130,130,,2025-08-23,1,success,0,False,2005,$50M-$250M,aws|gcp|salesforce,7,40
+R1197|R1196|R1194|R1195,"Drift,Apparel Incorporated",driftapparel.com,United States,Manufacturing,11,50,info@drift.com,2025-10-18,4,success,0,False,2015,$50M-$250M,aws|hubspot|salesforce,7,40
+R1186|R1185,COBALT TELECOM HOLDINGS INC.,cobalttelecomholdi.com,India,Gaming,18,,info@cobalt.com,2025-06-07,2,success,0,True,2020,$250M+,salesforce,,40
+R1053|R1054|R1055,"Lumen,Retail Global Inc.",lumenretailglobal.com,United Kingdom,Manufacturing,200,290,contact@lumen,2025-10-11,3,success,0,False,2023,$50M-$250M,kubernetes|python|stripe|salesforce,,40
+R1088,HARBOR HEALTH PARTNERS INC,harborhealthpartne.com,United States,Finance,1200,,info@harbor.com,2025-08-06,1,success,1,False,2000,$50M-$250M,azure|stripe,3,40
+R1235|R1233|R1234,Halcyon Pharma Corp,halcyonpharma.com,United States,Software,50,90,info@halcyon.com,2025-07-14,3,success,1,False,2009,$1M-$10M,kubernetes|azure|aws|hubspot,7,40
+R1216,Ember Hospitality Partners Corp,emberhospitalitypa.com,United States,Retail,200,240,info@ember.com,2025-06-03,1,success,0,False,1996,<$1M,stripe|aws|datadog|react,26,40
+R1376|R1375,saffron spices holdings ltd.,saffronspicesholdi.com,United Kingdom,Finance,50,550,contact@saffron,2025-06-18,2,success,0,True,2010,<$1M,stripe|aws,,40
+R1389|R1388,Thicket Gaming Holdings Inc,thicketgamingholdi.com,Canada,Telecom,260,260,contact@thicket,2025-07-02,2,success,0,False,1995,$1M-$10M,,3,40
+R1304|R1305|R1303,Mosaic Payments Partners Inc.,mosaicpaymentspart.com,Canada,Construction,42,1200,info@mosaic.com,2025-12-26,3,success,0,False,2010,$1M-$10M,gcp|azure|datadog|kubernetes,,40
+R1421|R1420|R1422,Willow Childcare Incorporated,willowchildcare.com,Canada,Software,130,130,info@willow.com,2025-09-26,3,success,1,False,1990,$10M-$50M,kubernetes|datadog|gcp|hubspot,,40
+R1103|R1102,Pinecrest Media Group Co,pinecrestmediagrou.com,Germany,Logistics,260,260,info@pinecrest.com,2025-08-04,2,success,1,True,2002,$1M-$10M,,26,40
+R1242,Halcyon Pharma International Inc.,halcyonpharmainter.com,United Kingdom,Logistics,87,87,info@halcyon.com,2025-07-18,1,success,1,True,2011,$50M-$250M,segment|hubspot,26,40
+R1120,Sterling Robotics International Ltd,sterlingroboticsin.com,,Healthcare,200,400,info@sterling.com,2025-05-08,1,success,0,False,,$50M-$250M,python|stripe|react|segment,,40
+R1472|R1473|R1474,Birch Furniture Inc,birchfurniture.com,India,Media,260,260,info@birch.com,2025-11-11,3,success,0,True,2001,$1M-$10M,gcp,,40
+R1429,willow childcare partners co.,willowchildcarepar.com,India,Education,87,87,info@willow.com,2025-08-02,1,success,0,False,2011,$50M-$250M,snowflake|salesforce,3,40
+R1228,Granite Insurance International Corp,graniteinsurancein.com,United States,Media,201,500,info@granite.com,2025-05-02,1,success,0,True,2004,$50M-$250M,aws|segment,,40
+R1091,"vanta,foods incorporated",vantafoods.com,United States,Gaming,,,,,1,success,0,False,2005,$1M-$10M,snowflake|azure|python|hubspot,14,40
+R1262,Ironwood Agritech Partners Co,ironwoodagritechpa.com,United States,Pharmaceuticals,10,50,info@ironwood.com,2025-12-18,1,success,0,False,2010,$10M-$50M,kubernetes|azure,3,40
+R9001,,ghostdomain.com,United States,Software,50,50,info@ghost.com,2025-03-04,1,success,0,False,2009,$1M-$10M,react|snowflake|salesforce,3,40
+R1174|R1169|R1170|R1171|R1178|R1175|R1172|R1168|R1179|R1167|R1173|R1177,BASALT CONSTRUCTION INTERNATIONAL CO,basaltconstruction.com,Germany,Insurance,11,50,contact@basalt,2025-08-08,12,success,0,False,1997,$50M-$250M,segment,7,35
+R1312,Nimbus Cloud Holdings Incorporated,nimbuscloudholding.com,Australia,Media,51,200,info@nimbus.com,2025-03-25,1,success,0,True,2020,$10M-$50M,,26,35
+R1462,"Zephyr,Drones Global LLC",zephyrdronesglobal.com,United Kingdom,Hospitality,20,60,info@zephyr.com,2025-01-23,1,success,0,False,2010,<$1M,kubernetes|snowflake,14,35
+R1052|R1050|R1051,Lumen Retail Partners Ltd,lumenretailpartner.com,India,Healthcare,1200,1000,info@lumen.com,2025-09-06,3,success,0,True,2008,$50M-$250M,,,35
+R1336,Petal Cosmetics International Inc,petalcosmeticsinte.com,Canada,Pharmaceuticals,,,info@petal.com,,1,success,0,False,2023,<$1M,aws|azure,14,35
+R1113|R1112|R1110|R1114|R1111,Sterling Robotics Corp,sterlingrobotics.com,Australia,Education,1200,1200,info@sterling.com,2025-06-25,5,success,0,False,2023,<$1M,python|hubspot|kubernetes|gcp,26,35
+R1238|R1237,"Halcyon,Pharma Group Inc.",halcyonpharmagroup.com,Australia,Finance,1000,87,info@halcyon.com,2025-10-01,2,success,0,True,1997,$50M-$250M,gcp,26,35
+R1239|R1240,"Halcyon,Pharma Holdings Inc.",halcyonpharmaholdi.com,India,Pharmaceuticals,50,550,contact@halcyon,2025-02-08,2,success,0,False,1994,$10M-$50M,react|hubspot|gcp,14,35
+R1128,Meridian Travel Holdings Co,meridiantravelhold.com,United Kingdom,Gaming,10,50,info@meridian.com,2025-07-23,1,success,0,False,,$50M-$250M,datadog|segment,26,35
+R1221|R1222|R1220,Granite Insurance LLC,graniteinsurance.com,United Kingdom,Gaming,5,510,info@granite.com,2025-01-16,3,success,0,False,2007,,python,7,35
+R1403,"Umbra,Optics Partners",umbraopticspartner.com,,Software,500,540,info@umbra.com,,1,success,0,False,1986,$50M-$250M,hubspot|azure|salesforce,,35
+R1099|R1101,Pinecrest Media Incorporated,pinecrestmedia.com,India,Hospitality,5,210,info@pinecrest.com,2025-07-06,2,success,0,False,1987,$50M-$250M,hubspot,3,35
+R1149,Tideline Finance International Ltd.,tidelinefinanceint.com,Germany,Media,130,,contact@tideline,,1,success,1,True,1989,$1M-$10M,,26,35
+R1331|R1333|R1332,Petal Cosmetics Incorporated,petalcosmetics.com,United States,Hospitality,130,130,info@petal.com,2025-02-02,3,success,0,False,1986,$1M-$10M,react,3,35
+R1330|R1329,Onyx Mining Global Co.,onyxminingglobal.com,United Kingdom,Manufacturing,1,10,info@onyx.com,2025-06-18,2,success,0,False,1995,<$1M,salesforce|stripe,7,35
+R1294,Larkspur Toys Partners LLC,larkspurtoyspartne.com,Canada,Retail,51,200,info@larkspur.com,2025-03-02,1,success,0,True,1994,<$1M,segment|azure,,35
+R1129,Meridian Travel International Inc.,meridiantravelinte.com,,Energy,87,,info@meridian.com,2025-07-19,1,success,0,False,2007,<$1M,react|aws|salesforce|hubspot,14,35
+R1215,Ember Hospitality International LLC,emberhospitalityin.com,United States,Logistics,501,1000,info@ember.com,,1,success,0,True,1999,$10M-$50M,aws|snowflake,,35
+R1394,"Thicket,Gaming Global Inc",thicketgaminggloba.com,,Gaming,20,110,info@thicket.com,2025-10-15,1,success,1,False,2020,<$1M,datadog|gcp|kubernetes|aws,,35
+R1139,"Foxglove,Energy Holdings Corp",foxgloveenergyhold.com,Canada,Insurance,18,18,info@foxglove.com,2025-02-05,1,success,0,True,2019,$250M+,,26,35
+R1152,Tideline Finance Global Inc.,tidelinefinanceglo.com,,Education,87,87,contact@tideline,2025-10-11,1,success,0,False,1997,<$1M,kubernetes|snowflake,3,35
+R1296|R1297,"MOSAIC,PAYMENTS LTD.",mosaicpayments.com,Canada,Healthcare,10,100,info@mosaic.com,2025-10-28,2,success,0,True,1997,$50M-$250M,gcp|stripe,,35
+R1263,ironwood agritech global co.,ironwoodagritechgl.com,Canada,Media,130,130,info@ironwood.com,2025-09-11,1,success,0,True,2016,$250M+,salesforce,,35
+R1350,Quartz Legal Partners Incorporated,quartzlegalpartner.com,United States,Retail,20,60,contact@quartz,2025-02-27,1,success,0,False,1989,<$1M,,7,35
+R1316|R1317,Nimbus Cloud Global Co,nimbuscloudglobal.com,United States,Healthcare,11,50,contact@nimbus,2025-06-19,2,success,0,False,1994,$1M-$10M,gcp|hubspot|snowflake,,30
+R1015|R1016|R1027|R1019|R1024|R1025|R1023|R1026|R1020|R1017|R1018|R1021|R1022,Brightpath Analytics Corp,brightpathanalytic.com,United Kingdom,Education,130,130,info@brightpath.com,2025-02-05,13,success,0,True,,,,,30
+R1229|R1230,Granite Insurance Partners Corp,graniteinsurancepa.com,Australia,Pharmaceuticals,130,130,info@granite.com,2025-09-06,2,success,0,False,2014,<$1M,,14,30
+R1115|R1117|R1116,Sterling Robotics Group Incorporated,sterlingroboticsgr.com,United States,Finance,42,42,info@sterling.com,2025-11-12,3,success,0,False,,$10M-$50M,react|python,14,30
+R1232|R1231,Granite Insurance Global Inc.,graniteinsurancegl.com,United Kingdom,Healthcare,1,10,info@granite.com,2025-05-08,2,success,0,False,2007,<$1M,gcp,3,30
+R1478|R1479,Birch Furniture International Co.,birchfurnitureinte.com,Germany,Education,540,540,info@birch.com,2025-11-10,2,success,0,False,2006,<$1M,python,3,30
+R1273,Juniper Mobility Partners Inc.,junipermobilitypar.com,India,Energy,500,590,info@juniper.com,2025-12-08,1,success,0,False,2015,$10M-$50M,stripe|azure|react,26,30
+R1189|R1190,COBALT TELECOM PARTNERS INC,cobalttelecompartn.com,,Healthcare,500,540,info@cobalt.com,2025-12-20,2,success,0,False,2013,$1M-$10M,python|datadog,,30
+R1292,larkspur toys holdings ltd,larkspurtoysholdin.com,Canada,Pharmaceuticals,200,700,info@larkspur.com,2025-11-20,1,success,0,False,1994,$1M-$10M,react,14,30
+R1141,Foxglove Energy Partners,foxgloveenergypart.com,United States,Energy,540,540,info@foxglove.com,2025-11-25,1,success,0,False,1998,$50M-$250M,,14,30
+R1207|R1210|R1209|R1208,"ember,hospitality ltd",emberhospitality.com,Canada,Gaming,500,540,info@ember.com,2025-02-22,4,success,0,True,1998,,,26,30
+R1349|R1348,Quartz Legal International Inc,quartzlegalinterna.com,India,Energy,100,190,info@quartz.com,2025-10-21,2,success,0,False,2003,$1M-$10M,kubernetes|segment|hubspot|react,26,30
+R1334,"Petal,Cosmetics Group Corp",petalcosmeticsgrou.com,United States,Finance,50,250,info@petal.com,2025-09-06,1,success,0,False,2001,$50M-$250M,salesforce|hubspot|snowflake|python,26,30
+R1071|R1070,Quill Software Co.,quillsoftware.com,Germany,Gaming,100,140,info@quill.com,2025-10-13,2,success,0,False,2016,$10M-$50M,azure|snowflake,,30
+R1374|R1373,Saffron Spices Group Ltd.,saffronspicesgroup.com,Germany,Telecom,1000,,info@saffron.com,2025-04-06,2,success,0,False,2015,<$1M,hubspot|stripe|gcp|kubernetes,26,30
+R1285,Kestrel Security Partners Co.,kestrelsecuritypar.com,Australia,Telecom,18,,info@kestrel.com,2025-06-25,1,success,1,False,1987,<$1M,azure|python|gcp,14,30
+R1271,Juniper Mobility Holdings Corp,junipermobilityhol.com,India,Hospitality,100,600,info@juniper.com,2025-11-09,1,success,0,False,1985,,react,3,30
+R1310,"NIMBUS,CLOUD GROUP CORP",nimbuscloudgroup.com,India,Energy,100,600,info@nimbus.com,2025-02-08,1,success,0,False,2004,<$1M,aws|datadog|snowflake,,30
+R1468,anchor marine international ltd,anchormarineintern.com,Canada,Retail,,,info@anchor.com,2025-02-15,1,success,0,False,2019,$10M-$50M,azure,26,30
+R1463|R1465|R1464,Anchor Marine Ltd.,anchormarine.com,United States,Construction,1,10,info@anchor.com,2025-06-23,3,success,0,True,2016,$10M-$50M,kubernetes,,30
+R1191|R1193|R1192,Cobalt Telecom Global LLC,cobalttelecomgloba.com,United Kingdom,Finance,42,50,info@cobalt.com,2025-11-14,3,success,0,False,2005,,segment|gcp,7,30
+R1404,Umbra Optics Global Co.,umbraopticsglobal.com,Germany,Hospitality,540,,info@umbra.com,2025-06-22,1,success,0,False,1992,<$1M,salesforce|azure,,30
+R1400,Umbra Optics Holdings Corp,umbraopticsholding.com,United States,Healthcare,130,130,info@umbra.com,,1,success,0,False,2020,$1M-$10M,segment,14,30
+R1423,Willow Childcare Group Ltd,willowchildcaregro.com,,Logistics,,,,2025-05-10,1,success,1,False,,<$1M,,14,30
+R1482,BIRCH FURNITURE GLOBAL CORP,birchfurnitureglob.com,,Hospitality,1200,1200,info@birch.com,2025-06-06,1,success,0,False,2003,$10M-$50M,,14,30
+R1127,"Meridian,Travel Group",meridiantravelgrou.com,India,Logistics,18,18,info@meridian.com,2025-09-12,1,success,0,False,2017,$50M-$250M,snowflake,7,30
+R1256|R1258|R1257,"IRONWOOD,AGRITECH HOLDINGS INC.",ironwoodagritechho.com,Australia,Energy,1200,1200,info@ironwood.com,2025-01-11,3,success,0,True,1988,<$1M,,,25
+R1014|R1012|R1011|R9004|R1005|R1009|R1003|R1008|R1006|R1004|R1013|R1010|R1002|R1001,"northwind,logistics global inc",northwindlogistics.com,India,Gaming,10,210,info@northwind.com,2025-08-23,14,success,1,False,2023,$10M-$50M,datadog|python,26,25
+R1315,"NIMBUS,CLOUD PARTNERS INCORPORATED",nimbuscloudpartner.com,Canada,Media,1,10,info@nimbus.com,2025-05-28,1,success,0,True,2010,$1M-$10M,,,25
+R1138,Foxglove Energy Group Co,foxgloveenergygrou.com,Germany,Logistics,500,590,,,1,success,1,False,2012,$50M-$250M,salesforce,,25
+R1140,Foxglove Energy International,foxgloveenergyinte.com,Germany,Healthcare,,,info@foxglove.com,2025-05-18,1,success,0,False,1992,$250M+,aws|hubspot|gcp|salesforce,,25
+R1446|R1443|R1444,yarrow textiles co,yarrowtextiles.com,Germany,Manufacturing,50,250,info@yarrow.com,2025-02-03,3,success,0,False,1992,$1M-$10M,kubernetes|segment|python|react,,25
+R1399,Umbra Optics Group Corp,umbraopticsgroup.com,United States,Gaming,,,info@umbra.com,2025-10-27,1,success,0,False,1998,$250M+,salesforce,14,25
+R1289|R1287|R1290|R1288,LARKSPUR TOYS LTD.,larkspurtoys.com,Germany,Construction,500,700,contact@larkspur,2025-12-24,4,success,0,False,2023,$10M-$50M,aws,,25
+R1077|R1076,Quill Software Partners,quillsoftwarepartn.com,Germany,Insurance,87,,info@quill.com,2025-09-24,2,success,0,False,1985,$50M-$250M,python,,25
+R1030|R1029|R1028|R1031,Cedar Systems,cedarsystems.com,Germany,Education,42,290,info@cedar.com,2025-12-23,4,success,0,False,1987,$10M-$50M,,26,25
+R1447,YARROW TEXTILES GROUP CORP,yarrowtextilesgrou.com,United Kingdom,Software,501,1000,,2025-02-15,1,success,0,True,1990,$50M-$250M,,,25
+R1298|R1299,"Mosaic,Payments Group Inc.",mosaicpaymentsgrou.com,United States,Software,200,240,info@mosaic.com,2025-03-09,2,success,0,False,1986,$10M-$50M,azure|python|snowflake|segment,,25
+R1469,Anchor Marine Partners Incorporated,anchormarinepartne.com,United States,Hospitality,200,240,,2025-01-09,1,success,0,True,2017,<$1M,,,25
+R1198,"Drift,Apparel Group Ltd",driftapparelgroup.com,United Kingdom,Media,100,600,,2025-01-24,1,success,0,False,2012,$50M-$250M,,26,25
+R1283|R1284,Kestrel Security International Ltd.,kestrelsecurityint.com,India,Healthcare,201,500,info@kestrel.com,2025-03-04,2,success,0,True,1990,<$1M,,,25
+R1254|R1253,Ironwood Agritech Group Inc.,ironwoodagritechgr.com,United States,Gaming,501,1000,info@ironwood.com,2025-04-07,2,success,0,False,2020,$250M+,stripe,7,25
+R1188,Cobalt Telecom International Inc.,cobalttelecominter.com,Australia,Education,87,,info@cobalt.com,,1,success,0,False,2020,$1M-$10M,react|kubernetes,,25
+R1362,Rivet Hardware Holdings Co,rivethardwareholdi.com,Canada,Energy,130,,info@rivet.com,2025-07-03,1,success,0,False,2020,$250M+,kubernetes,26,25
+R1158|R1159,ACORN EDUCATION GROUP INC.,acorneducationgrou.com,,Insurance,500,540,info@acorn.com,2025-10-15,2,success,0,False,2001,$1M-$10M,,3,25
+R1214,Ember Hospitality Holdings Co.,emberhospitalityho.com,India,Software,540,540,,2025-08-06,1,success,0,False,1990,$10M-$50M,react|hubspot,,25
+R1295,"Larkspur,Toys Global Ltd",larkspurtoysglobal.com,United States,Insurance,260,,info@larkspur.com,2025-11-04,1,success,0,False,2022,<$1M,kubernetes|azure|segment,,25
+R1049,LUMEN RETAIL INTERNATIONAL INC,lumenretailinterna.com,India,Software,1200,1200,info@lumen.com,2025-03-05,1,success,1,False,2009,$250M+,salesforce|snowflake|react,,25
+R1439|R1440,"Xenon,Labs International Ltd.",xenonlabsinternati.com,United States,Education,1000,,contact@xenon,2025-03-13,2,success,0,False,1998,$1M-$10M,,3,25
+R1455|R1456,Zephyr Drones Inc,zephyrdrones.com,Australia,Finance,1000,,info@zephyr.com,2025-12-17,2,success,1,False,,<$1M,,14,25
+R1045,Lumen Retail Group Incorporated,lumenretailgroup.com,India,Healthcare,10,100,info@lumen.com,2025-06-24,1,success,0,False,1991,$10M-$50M,kubernetes|python|datadog,,25
+R1481|R1480,Birch Furniture Partners Corp,birchfurniturepart.com,Australia,Finance,51,200,info@birch.com,2025-08-14,2,success,1,False,2012,$50M-$250M,segment|python|react,,25
+R1206,Drift Apparel Global Incorporated,driftapparelglobal.com,United Kingdom,Telecom,501,1000,,2025-08-08,1,success,0,False,1987,$50M-$250M,gcp|hubspot,,25
+R1475|R1476,BIRCH FURNITURE GROUP CO.,birchfurnituregrou.com,India,Healthcare,18,18,info@birch.com,2025-08-01,2,success,0,False,2007,<$1M,,,20
+R1343|R1342|R1341,Quartz Legal Inc.,quartzlegal.com,United States,Insurance,1,10,info@quartz.com,2025-12-03,3,success,0,False,2020,$250M+,datadog,14,20
+R1034,"cedar,systems holdings incorporated",cedarsystemsholdin.com,United States,Hospitality,42,,info@cedar.com,2025-11-16,1,success,0,False,2007,$10M-$50M,kubernetes|gcp|hubspot,,20
+R1073|R1074,quill software holdings ltd,quillsoftwareholdi.com,United States,Construction,42,42,info@quill.com,2025-10-22,2,success,1,False,1995,$250M+,,26,20
+R1306,Mosaic Payments Global,mosaicpaymentsglob.com,Canada,Hospitality,260,260,info@mosaic.com,2025-01-08,1,success,0,False,2011,$250M+,,,20
+R1105,"Pinecrest,Media International Ltd.",pinecrestmediainte.com,United States,Telecom,201,500,info@pinecrest.com,2025-10-18,1,success,0,False,,$1M-$10M,,14,20
+R1224|R1225,Granite Insurance Group Incorporated,graniteinsurancegr.com,Germany,Logistics,200,290,info@granite.com,2025-02-28,2,success,0,False,2023,$50M-$250M,,26,20
+,Stray Holdings LLC,strayholdings.com,United States,Finance,,,not-an-email,,1,success,0,False,2003,$1M-$10M,python|snowflake,,20
+R1433|R1436|R1435|R1431|R1432|R1434,Xenon Labs Co,xenonlabs.com,United States,Healthcare,200,400,info@xenon.com,2025-08-23,6,success,0,False,1999,$250M+,azure,,15
+R1033|R1032,cedar systems group ltd,cedarsystemsgroup.com,,Healthcare,42,42,info@cedar.com,2025-09-14,2,success,0,False,2012,$10M-$50M,snowflake,,15
+R1125|R1124|R1123|R1126,Meridian Travel Corp,meridiantravel.com,Germany,Insurance,1,10,info@meridian.com,2025-08-23,4,success,0,False,2007,$1M-$10M,snowflake,,15
+R1082|R1084,Harbor Health Group,harborhealthgroup.com,United States,Retail,,,info@harbor.com,2025-11-12,2,success,0,False,2013,$250M+,,26,15
+R1381,Saffron Spices Global,saffronspicesgloba.com,United Kingdom,Telecom,51,200,info@saffron.com,2025-02-14,1,success,0,False,1991,$250M+,stripe|react,,15
+R1384|R1383|R1382,Thicket Gaming LLC,thicketgaming.com,United States,Insurance,20,520,info@thicket.com,2025-12-09,3,success,0,False,1986,,,14,15
+R1390|R1391,"Thicket,Gaming International Corp",thicketgaminginter.com,United States,Telecom,42,42,info@thicket.com,2025-07-10,2,success,0,False,1990,$10M-$50M,,,10
+R1164|R1163,acorn education partners corp,acorneducationpart.com,India,Education,87,87,info@acorn.com,2025-09-17,2,success,0,False,1993,$250M+,stripe,,10
+R1307|R1308,NIMBUS CLOUD LTD.,nimbuscloud.com,India,Healthcare,5,5,info@nimbus.com,2025-04-01,2,success,0,False,2021,<$1M,,26,10
+R1451|R1453|R1452,"Yarrow,Textiles Partners Co.",yarrowtextilespart.com,United States,Finance,130,5,info@yarrow.com,2025-11-12,3,success,0,False,2022,,,26,10
+R1048|R1047|R1046,Lumen Retail Holdings Co.,lumenretailholding.com,Canada,Hospitality,10,210,info@lumen.com,2025-01-08,3,success,0,False,1995,$250M+,python,,10
+R1276|R1275,JUNIPER MOBILITY GLOBAL LTD.,junipermobilityglo.com,United States,Media,10,50,info@juniper.com,2025-10-22,2,success,0,False,1990,$250M+,,26,10
+R1092,VANTA FOODS GROUP CO.,vantafoodsgroup.com,Germany,Pharmaceuticals,130,130,contact@vanta,2025-09-10,1,success,0,False,1994,$250M+,salesforce,,10
+R1323|R1324,Onyx Mining Group Ltd,onyxmininggroup.com,Canada,Finance,5,5,info@onyx.com,2025-03-11,2,success,1,False,2017,$10M-$50M,aws,,10
+R1338,"Petal,Cosmetics Partners LLC",petalcosmeticspart.com,United Kingdom,Healthcare,10,510,info@petal.com,2025-01-24,1,success,0,False,1987,$10M-$50M,,,10
+R1328,Onyx Mining Partners Co.,onyxminingpartners.com,United States,Pharmaceuticals,130,130,contact@onyx,2025-06-16,1,success,0,False,2005,$250M+,,,10
+R1291,Larkspur Toys Group LLC,larkspurtoysgroup.com,Germany,Software,260,,info@larkspur.com,2025-02-10,1,success,0,False,1991,$1M-$10M,,,5
+R1040|R1041,Cedar Systems Global Ltd,cedarsystemsglobal.com,Germany,Logistics,260,260,info@cedar.com,2025-09-06,2,success,0,False,2021,<$1M,,,5
+R1347|R1345|R1346,Quartz Legal Holdings Inc.,quartzlegalholding.com,Germany,Healthcare,200,700,info@quartz.com,2025-07-24,3,success,1,False,2010,$10M-$50M,,,5
+R1425,Willow Childcare Holdings LLC,willowchildcarehol.com,,Retail,,,info@willow.com,2025-11-10,1,success,0,False,2015,$50M-$250M,,,5
+R1401|R1402,umbra optics international inc,umbraopticsinterna.com,Canada,Logistics,10,50,info@umbra.com,2025-05-23,2,success,0,False,2020,$50M-$250M,,,5
+R1407|R1408|R1417|R1415|R1409|R1406|R1416|R1414|R1412|R1413|R1410|R1405|R1411,Verdant Landscaping LLC,verdantlandscaping.com,Canada,Software,200,700,info@verdant.com,2025-10-12,13,http_error_404,0,,,,,,0
+R1095,VANTA FOODS PARTNERS CO.,vantafoodspartners.com,United States,Telecom,51,200,info@vanta.com,,1,http_error_404,0,,,,,,0
+R1327,Onyx Mining International LLC,onyxmininginternat.com,Germany,Telecom,50,250,info@onyx.com,2025-03-07,1,http_error_404,0,,,,,,0
+R1249|R1248|R1251|R1252|R1247,ironwood agritech incorporated,ironwoodagritech.com,Canada,Hospitality,1200,87,info@ironwood.com,2025-10-15,5,http_error_404,0,,,,,,0
+R1477,BIRCH FURNITURE HOLDINGS LTD,birchfurniturehold.com,India,Logistics,200,290,info@birch.com,2025-03-12,1,http_error_404,0,,,,,,0
+R1260|R1261|R1259,"Ironwood,Agritech International Co.",ironwoodagritechin.com,United States,Gaming,100,190,info@ironwood.com,2025-08-25,3,http_error_404,0,,,,,,0
+R1166|R1165,Acorn Education Global Inc,acorneducationglob.com,United States,Logistics,260,250,contact@acorn,2025-06-05,2,http_error_404,0,,,,,,0
+R1396|R1397,UMBRA OPTICS CO,umbraoptics.com,United States,Education,10,510,info@umbra.com,2025-03-08,2,http_error_404,0,,,,,,0
+R1358|R1359|R1356|R1354|R1357|R1355,Rivet Hardware Inc.,rivethardware.com,United States,Manufacturing,42,42,contact@rivet,2025-10-23,6,http_error_404,0,,,,,,0
+R1245|R1244|R1246,Halcyon Pharma Global Inc,halcyonpharmagloba.com,Germany,Healthcare,51,200,info@halcyon.com,2025-12-02,3,http_error_404,0,,,,,,0
+R1470,Anchor Marine Global,anchormarineglobal.com,,Media,50,550,info@anchor.com,,1,http_error_404,0,,,,,,0
+R1118,Sterling Robotics Holdings Co.,sterlingroboticsho.com,Germany,,201,500,info@sterling.com,2025-07-23,1,http_error_404,1,,,,,,0
+R1387,Thicket Gaming Holdings,,United States,Gaming,1000,,info@thicket.com,2025-12-10,1,skipped_no_domain,,,,,,,0
+R1134,FOXGLOVE ENERGY INCORPORATED,,United Kingdom,Software,18,,info@foxglove.com,2025-12-25,1,skipped_no_domain,,,,,,,0
+R1226,granite insurance holdings llc,,United States,Finance,18,,contact@granite,2025-01-16,1,skipped_no_domain,,,,,,,0
+R1130,Meridian Travel Partners Ltd.,,India,,87,,info@meridian.com,2025-01-07,1,skipped_no_domain,,,,,,,0
+R1078,Quill Software Global Incorporated,,Germany,Energy,260,260,,2025-02-26,1,skipped_no_domain,,,,,,,0
+R1325,Onyx Mining Group Ltd,,Canada,,,,info@onyx.com,,1,skipped_no_domain,,,,,,,0
+R1058,Orbit Manufacturing Ltd,,United Kingdom,Hospitality,1000,,info@orbit.com,2025-10-20,1,skipped_no_domain,,,,,,,0
+R1448,Yarrow Textiles Holdings Corp,,United States,Software,18,18,info@yarrow.com,2025-10-23,1,skipped_no_domain,,,,,,,0
+R1450,Yarrow Textiles International LLC,,,,260,260,info@yarrow.com,2025-10-18,1,skipped_no_domain,,,,,,,0
+R1471,Birch Furniture Co,,United Kingdom,Gaming,,,info@birch.com,2025-05-08,1,skipped_no_domain,,,,,,,0
+R1063,orbit manufacturing holdings incorporated,,,,201,500,info@orbit.com,2025-09-21,1,skipped_no_domain,,,,,,,0
+R1079,Harbor Health LLC,,United States,Insurance,42,,info@harbor.com,2025-05-27,1,skipped_no_domain,,,,,,,0
+R1119,"Sterling,Robotics Holdings Ltd",,United States,Retail,1,10,info@sterling.com,2025-04-05,1,skipped_no_domain,,,,,,,0
+R1377,Saffron Spices International Ltd,,Canada,Finance,201,500,info@saffron.com,2025-04-10,1,skipped_no_domain,,,,,,,0
+R1344,Quartz Legal Group Ltd,,United Kingdom,,51,200,info@quartz.com,2025-03-11,1,skipped_no_domain,,,,,,,0
+R1418,"Verdant,Landscaping Global",,Australia,Telecom,18,,info@verdant.com,2025-04-13,1,skipped_no_domain,,,,,,,0
+R1370,saffron spices corp,,United Kingdom,Manufacturing,100,140,info@saffron.com,2025-04-18,1,skipped_no_domain,,,,,,,0
+R1368,Rivet Hardware Global Inc.,,Germany,,540,540,info@rivet.com,,1,skipped_no_domain,,,,,,,0
+R1339,Petal Cosmetics Partners Co.,,Germany,Software,200,400,info@petal.com,2025-12-19,1,skipped_no_domain,,,,,,,0
+R1236,HALCYON PHARMA GROUP LTD.,,India,Education,51,200,info@halcyon.com,2025-12-16,1,skipped_no_domain,,,,,,,0
+R1187,cobalt telecom international co,,Australia,Construction,540,540,info@cobalt.com,2025-11-23,1,skipped_no_domain,,,,,,,0
+R1314,nimbus cloud international inc,,India,Media,1200,,info@nimbus.com,,1,skipped_no_domain,,,,,,,0
+R9002,,,,,,,,,1,skipped_no_domain,,,,,,,0
+R1309,"Nimbus,Cloud Group LLC",,United States,,130,130,info@nimbus.com,2025-02-14,1,skipped_no_domain,,,,,,,0
+R1080,Harbor Health Co,,United Kingdom,,130,130,info@harbor.com,2025-12-21,1,skipped_no_domain,,,,,,,0
+R1083,"harbor,health group corp",,United States,Media,500,700,info@harbor.com,,1,skipped_no_domain,,,,,,,0
+R1090,Vanta Foods Ltd.,,United States,Gaming,,,info@vanta.com,2025-04-02,1,skipped_no_domain,,,,,,,0
+R1241,"halcyon,pharma holdings co.",,,Pharmaceuticals,260,,info@halcyon.com,2025-10-07,1,skipped_no_domain,,,,,,,0
+R1223,Granite Insurance Group Co,,Germany,,200,290,info@granite.com,2025-05-22,1,skipped_no_domain,,,,,,,0
+R1419,WILLOW CHILDCARE INCORPORATED,,,Pharmaceuticals,,,info@willow.com,2025-01-06,1,skipped_no_domain,,,,,,,0
+R1157,acorn education incorporated,,,Logistics,42,42,info@acorn.com,2025-06-18,1,skipped_no_domain,,,,,,,0
+R1318,Nimbus Cloud Global Incorporated,,Germany,Healthcare,130,130,contact@nimbus,2025-09-07,1,skipped_no_domain,,,,,,,0
+R1204,Drift Apparel International Incorporated,,United Kingdom,Energy,20,110,info@drift.com,2025-04-08,1,skipped_no_domain,,,,,,,0
+R1337,petal cosmetics partners co,,United Kingdom,Software,1,10,info@petal.com,2025-06-16,1,skipped_no_domain,,,,,,,0
+R1311,"Nimbus,Cloud Holdings Inc",,United States,,42,,info@nimbus.com,2025-11-17,1,skipped_no_domain,,,,,,,0
+R1395,UMBRA OPTICS CO,,Germany,Software,,,info@umbra.com,2025-08-28,1,skipped_no_domain,,,,,,,0
+R1430,Willow Childcare Global,,Australia,Gaming,87,,info@willow.com,2025-09-05,1,skipped_no_domain,,,,,,,0
+R1250,Ironwood Agritech Inc,,United Kingdom,Logistics,130,130,info@ironwood.com,2025-07-15,1,skipped_no_domain,,,,,,,0
+R1445,Yarrow Textiles,,,Manufacturing,,,info@yarrow.com,,1,skipped_no_domain,,,,,,,0
+R1122,sterling robotics global corp,,United States,Media,42,42,info@sterling.com,2025-10-08,1,skipped_no_domain,,,,,,,0
+R1007,Northwind Logistics Group LLC,,United States,,130,130,info@northwind.com,2025-07-18,1,skipped_no_domain,,,,,,,0
+R1424,WILLOW CHILDCARE HOLDINGS,,Germany,Retail,501,1000,info@willow.com,2025-12-26,1,skipped_no_domain,,,,,,,0
+R1255,IRONWOOD AGRITECH GROUP LLC,,Germany,,10,100,info@ironwood.com,2025-06-19,1,skipped_no_domain,,,,,,,0
+R1145,Tideline Finance,,United States,,5,5,,2025-03-16,1,skipped_no_domain,,,,,,,0
+R1270,"Juniper,Mobility Holdings Ltd",,,Hospitality,100,300,info@juniper.com,2025-12-21,1,skipped_no_domain,,,,,,,0
+R1176,"Basalt,Construction International LLC",,Canada,,11,50,info@basalt.com,2025-04-14,1,skipped_no_domain,,,,,,,0
+R1313,"Nimbus,Cloud International",,,,260,,info@nimbus.com,2025-10-12,1,skipped_no_domain,,,,,,,0
+R1274,"Juniper,Mobility Global LLC",,United States,Media,,,info@juniper.com,2025-12-07,1,skipped_no_domain,,,,,,,0
+R1449,YARROW TEXTILES HOLDINGS,,Germany,Software,42,42,info@yarrow.com,2025-11-23,1,skipped_no_domain,,,,,,,0
+R1426,Willow Childcare Holdings LLC,,Canada,,200,700,info@willow.com,2025-05-15,1,skipped_no_domain,,,,,,,0
+R1202,drift apparel international ltd,,,Energy,,,info@drift.com,2025-01-04,1,skipped_no_domain,,,,,,,0
+R1147,"Tideline,Finance Group",,Canada,Healthcare,1,10,info@tideline.com,2025-08-28,1,skipped_no_domain,,,,,,,0
+R1293,Larkspur Toys International Incorporated,,United Kingdom,Insurance,51,200,info@larkspur.com,2025-10-06,1,skipped_no_domain,,,,,,,0
+R1100,Pinecrest Media Inc,,Germany,Logistics,200,290,info@pinecrest.com,2025-06-05,1,skipped_no_domain,,,,,,,0
+R1264,Juniper Mobility Ltd,,Canada,Software,10,50,info@juniper.com,2025-10-24,1,skipped_no_domain,,,,,,,0
+R1160,"Acorn,Education Holdings Inc",,,,130,,info@acorn.com,2025-04-07,1,skipped_no_domain,,,,,,,0
+R1398,Umbra Optics Incorporated,,Canada,Manufacturing,42,,info@umbra.com,,1,skipped_no_domain,,,,,,,0
+R1098,"Pinecrest,Media Ltd.",,Canada,Hospitality,42,,info@pinecrest.com,2025-10-26,1,skipped_no_domain,,,,,,,0
+R1266,Juniper Mobility Co,,,Construction,1200,1200,info@juniper.com,2025-09-26,1,skipped_no_domain,,,,,,,0
+R1136,Foxglove Energy Ltd,,United Kingdom,Construction,,,info@foxglove.com,2025-01-10,1,skipped_no_domain,,,,,,,0

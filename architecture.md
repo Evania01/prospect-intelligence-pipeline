@@ -67,12 +67,15 @@ The pipeline saves intermediate stage files in the `state/` folder:
 It also creates a cleaner final output in:
 - `output/final_ranked_prospects.json`
 
+On reruns, the pipeline can reuse these saved `state/` files so completed stages do not need to be recalculated every time.
+
 At the end of the run, it prints a summary showing:
 - raw record count
 - grouped domain count
 - no-domain record count
 - merged record count
 - enrichment success, skipped, and failed counts
+- failure reason breakdown
 - final scored record count
 
 This orchestration is handled in `main.py`.
@@ -95,7 +98,7 @@ The enrichment API is intentionally unreliable, so I added retries for temporary
 
 ### Stage-wise state saving
 
-I saved intermediate results in the `state/` folder so each stage can be inspected separately. This also makes the pipeline easier to debug and closer to a resumable backend workflow.
+I saved intermediate results in the `state/` folder so each stage can be inspected separately. This also makes the pipeline easier to debug and allows reruns to reuse already completed stages.
 
 ## Trade-offs
 
@@ -105,7 +108,7 @@ The current implementation is intentionally simple and readable, but it has some
 - merge conflict resolution is basic and may not always pick the best possible field value
 - enrichment is sequential, not concurrent
 - retry logic is simple and does not use exponential backoff
-- the pipeline does not yet implement a true resumable checkpoint system, only stage-wise saved outputs
+- the pipeline can reuse saved stage outputs on rerun, but it does not yet implement a full checkpoint system with validation or partial-stage recovery
 
 These choices were made to keep the solution correct, understandable, and manageable within the task scope.
 
