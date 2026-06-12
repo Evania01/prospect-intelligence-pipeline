@@ -5,6 +5,7 @@ This project reads messy prospect company data from a CSV file, cleans and norma
 ## What the pipeline does
 
 The pipeline runs in these stages:
+
 1. Ingestion and normalization
 2. Duplicate grouping and merging
 3. Enrichment using the mock API
@@ -17,7 +18,9 @@ The pipeline runs in these stages:
 prospect_pipeline/
 ├── main.py
 ├── README.md
+├── architecture.md
 ├── AI_USAGE_LOG.md
+├── .gitignore
 ├── data/
 │   ├── raw_prospects.csv
 │   └── raw_prospects_sample.json
@@ -28,27 +31,21 @@ prospect_pipeline/
 │   ├── ingest.py
 │   ├── dedupe.py
 │   ├── enrich.py
-│   ├── score.py
-│   └── utils.py
+│   └── score.py
 ├── state/
 │   ├── merged_records.json
 │   ├── enriched_records.json
 │   └── scored_records.json
 └── output/
-    ├── cleaned_records.json
-    ├── enriched_records.json
-    ├── scored_records.json
     └── final_ranked_prospects.json
-```   
-    
+```
+
 ## Requirements
 
 - Python 3.x
 - pip
 
 ## How to run the mock enrichment API
-
-Run this first:
 
 Run this first:
 
@@ -59,27 +56,33 @@ uvicorn app:app --port 8900
 ```
 
 The mock API runs at:
-http://localhost:8900/enrich
+
+`http://localhost:8900/enrich`
 
 ## How to run the pipeline
 
 After starting the mock API, open another terminal in the project root and run:
 
+```bash
 python main.py
+```
 
 ## Output files
 
-Final output:
-- output/final_ranked_prospects.json
+### Final output
 
-Intermediate state files:
-- state/merged_records.json
-- state/enriched_records.json
-- state/scored_records.json
+- `output/final_ranked_prospects.json`
+
+### Intermediate state files
+
+- `state/merged_records.json`
+- `state/enriched_records.json`
+- `state/scored_records.json`
 
 ## Run summary
 
 When the pipeline finishes, it prints:
+
 - raw records count
 - unique domain groups
 - no-domain records

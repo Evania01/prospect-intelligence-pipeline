@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 
 from pipeline.dedupe import group_records_by_domain, merge_grouped_records
 from pipeline.enrich import enrich_records
@@ -7,7 +8,9 @@ from pipeline.score import score_records
 
 
 def save_json_file(path, data):
-    with open(path, "w", encoding="utf-8") as file:
+    output_path = Path(path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=2)
 
 def print_run_summary(raw_records, grouped_records, no_domain_records, merged_records, enriched_records, scored_records):
@@ -36,36 +39,38 @@ def print_run_summary(raw_records, grouped_records, no_domain_records, merged_re
     print("Enriched failed:", failed_count)
     print("Final scored records:", len(scored_records))
 
+
 def build_final_output(scored_records):
-        final_records = []
+    final_records = []
 
-        for record in scored_records:
-            enrichment = record.get("enrichment") or {}
+    for record in scored_records:
+        enrichment = record.get("enrichment") or {}
 
-            final_records.append(
-                {
-                    "record_ids": record.get("record_ids"),
-                    "company_name": record.get("company_name"),
-                    "domain": record.get("domain"),
-                    "country": record.get("country"),
-                    "industry": record.get("industry") or enrichment.get("industry"),
-                    "employee_count_min": record.get("employee_count_min"),
-                    "employee_count_max": record.get("employee_count_max"),
-                    "contact_email": record.get("contact_email"),
-                    "source_captured_at_clean": record.get("source_captured_at_clean"),
-                    "merged_record_count": record.get("merged_record_count"),
-                    "enrichment_status": record.get("enrichment_status"),
-                    "retry_count": record.get("retry_count"),
-                    "hiring_now": enrichment.get("hiring_now"),
-                    "founded_year": enrichment.get("founded_year"),
-                    "revenue_band": enrichment.get("revenue_band"),
-                    "tech_signals": enrichment.get("tech_signals"),
-                    "last_funding_months_ago": enrichment.get("last_funding_months_ago"),
-                    "score": record.get("score"),
-                }
-            )
+        final_records.append(
+            {
+                "record_ids": record.get("record_ids"),
+                "company_name": record.get("company_name"),
+                "domain": record.get("domain"),
+                "country": record.get("country"),
+                "industry": record.get("industry") or enrichment.get("industry"),
+                "employee_count_min": record.get("employee_count_min"),
+                "employee_count_max": record.get("employee_count_max"),
+                "contact_email": record.get("contact_email"),
+                "source_captured_at_clean": record.get("source_captured_at_clean"),
+                "merged_record_count": record.get("merged_record_count"),
+                "enrichment_status": record.get("enrichment_status"),
+                "retry_count": record.get("retry_count"),
+                "hiring_now": enrichment.get("hiring_now"),
+                "founded_year": enrichment.get("founded_year"),
+                "revenue_band": enrichment.get("revenue_band"),
+                "tech_signals": enrichment.get("tech_signals"),
+                "last_funding_months_ago": enrichment.get("last_funding_months_ago"),
+                "score": record.get("score"),
+            }
+        )
 
-        return final_records
+    return final_records
+
 
 def main():
     csv_path = "data/raw_prospects.csv"
@@ -111,6 +116,7 @@ def main():
         enriched_records,
         scored_records,
     )
+
 
 if __name__ == "__main__":
     main()
