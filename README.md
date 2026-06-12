@@ -50,9 +50,13 @@ prospect_pipeline/
 
 Run this first:
 
+Run this first:
+
+```bash
 cd mock_enrichment_api
 pip install -r requirements.txt
 uvicorn app:app --port 8900
+```
 
 The mock API runs at:
 http://localhost:8900/enrich

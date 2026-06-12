@@ -27,9 +27,9 @@ rejected and why.
 
 What did it recommend, what did you do instead, and why?
 
--- AI guidance often focused on adding more features step by step, but I chose to keep the duplicate resolution logic simple by grouping mainly on cleaned domains instead of trying to add more advanced fuzzy matching. I did this because domain-based grouping was easier to defend, less risky, and more manageable for the current stage of the task.
+- AI guidance often focused on adding more features step by step, but I chose to keep the duplicate resolution logic simple by grouping mainly on cleaned domains instead of trying to add more advanced fuzzy matching. I did this because domain-based grouping was easier to defend, less risky, and more manageable for the current stage of the task.
 
 ## 4. If your reviewer asked "why this approach?" about the hardest part of your
 ##    pipeline, what would you say — in your own words?
 
--- The hardest part of the pipeline was handling messy data together with enrichment failures. I chose a simple stage-based design so that each part of the pipeline was easier to understand, debug, and explain. I used cleaned domains as the main duplicate grouping rule because domains are more stable than company names. For enrichment, I added retry handling because the mock API is intentionally unreliable, and I wanted the pipeline to continue working even when temporary errors happened. I also saved intermediate stage outputs so I could inspect the results of each step separately.
+- The hardest part of the pipeline was handling messy data together with enrichment failures. I chose a simple stage-based design so that each part of the pipeline was easier to understand, debug, and explain. I used cleaned domains as the main duplicate grouping rule because domains are more stable than company names. For enrichment, I added retry handling because the mock API is intentionally unreliable, and I wanted the pipeline to continue working even when temporary errors happened. I also saved intermediate stage outputs so I could inspect the results of each step separately.
